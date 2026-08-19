@@ -25,6 +25,7 @@
 - [cadence](https://github.com/caseclose/cadence) — CPU-scheduling-inspired task manager for multi-task life: suspend tasks + adaptive backoff polling reminders
 - [stock-assistant](https://github.com/caseclose/stock-assistant) — US equities reference dashboard: watchlist, multi-timeframe charts, composite signals (FastAPI + Next.js + Alpaca)
 - [YouTubeMusic-MacOS](https://github.com/caseclose/YouTubeMusic-MacOS) — Native macOS desktop client for YouTube Music with media keys, tray & Control Center integration
+- [mymd-editor](https://github.com/caseclose/mymd-editor) — Typora-style Markdown editor for Windows (Electron + Milkdown)
 
 ---
 
