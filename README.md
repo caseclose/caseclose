@@ -32,8 +32,12 @@
 ### 📊 GitHub 统计
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=caseclose&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caseclose&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caseclose&theme=tokyonight" alt="GitHub profile details" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=caseclose&theme=tokyonight" alt="GitHub stats" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=caseclose&theme=tokyonight" alt="Top languages" />
 </p>
 
 <p align="center">
