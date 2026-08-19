@@ -9,9 +9,9 @@
 
 ### 🙋 About Me
 
-- 🔭 I'm currently working on: <!-- fill in here -->
-- 🌱 I'm currently learning: <!-- fill in here -->
-- 💬 Ask me about: <!-- tech topics / interests -->
+- 🔭 I'm currently working on: **Agent** · **Multimodal Understanding (VLM)** · **Omni / Unified Model** · **AIGC**
+- 🌱 I'm currently learning: Agentic systems & unified multimodal models
+- 💬 Ask me about: VLM, Agents, AIGC
 - 📫 How to reach me: <!-- email or other contact -->
 - ⚡ Fun fact: <!-- one line about yourself -->
 
