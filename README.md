@@ -50,15 +50,3 @@
   <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=caseclose&theme=tokyonight" alt="GitHub stats" />
   <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=caseclose&theme=tokyonight" alt="Top languages" />
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=caseclose&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
----
-
-### 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=caseclose&theme=tokyo-night&hide_border=true" alt="activity graph" />
-</p>
