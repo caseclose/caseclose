@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm CaseClosed</h1>
+<h1 align="center">Hi 👋, I'm 王峰 / Feng WANG</h1>
 <h3 align="center">Welcome to my GitHub profile</h3>
 
 <p align="center">
