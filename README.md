@@ -29,6 +29,13 @@
 
 ---
 
+### 🌟 Open Source Contributions
+
+- [MLNLP-World/Top-AI-Conferences-Paper-with-Code](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code) — contributor
+  <img src="https://img.shields.io/github/stars/MLNLP-World/Top-AI-Conferences-Paper-with-Code?style=flat&label=stars" alt="stars" />
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
