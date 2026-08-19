@@ -19,6 +19,9 @@
 
 - [cma-harness](https://github.com/caseclose/cma-harness) — Cognitive-structured Multimodal Agent Harness: memory-centric agent for long-horizon multimodal understanding, generation & editing (with M2CA-Bench)
   <img src="https://img.shields.io/github/stars/caseclose/cma-harness?style=flat&label=stars" alt="stars" />
+- [cadence](https://github.com/caseclose/cadence) — CPU-scheduling-inspired task manager for multi-task life: suspend tasks + adaptive backoff polling reminders
+- [stock-assistant](https://github.com/caseclose/stock-assistant) — US equities reference dashboard: watchlist, multi-timeframe charts, composite signals (FastAPI + Next.js + Alpaca)
+- [YouTubeMusic-MacOS](https://github.com/caseclose/YouTubeMusic-MacOS) — Native macOS desktop client for YouTube Music with media keys, tray & Control Center integration
 
 **Contributions**
 
