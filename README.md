@@ -12,7 +12,7 @@
 - 🔭 I'm currently working on: **Agent** · **Multimodal Understanding (VLM)** · **Omni / Unified Model** · **AIGC**
 - 🌱 I'm currently learning: Agentic systems & unified multimodal models
 - 💬 Ask me about: VLM, Agents, AIGC
-- 📫 How to reach me: <!-- email or other contact -->
+- 📫 How to reach me: [fengw2002@gmail.com](mailto:fengw2002@gmail.com) · [fengwang@stu.pku.edu.cn](mailto:fengwang@stu.pku.edu.cn) · [X @MikeWan97935983](https://x.com/MikeWan97935983)
 - ⚡ Fun fact: <!-- one line about yourself -->
 
 ---
