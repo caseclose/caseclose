@@ -11,13 +11,7 @@
 
 - 🔭 I'm currently working on: **Agent** · **Multimodal Understanding (VLM)** · **Omni / Unified Model** · **AIGC**
 - 🌱 I'm currently learning: Agentic systems & unified multimodal models
-- 💬 Ask me about: VLM, Agents, AIGC
-- 📫 How to reach me:
-
-  <a href="mailto:fengw2002@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="mailto:fengwang@stu.pku.edu.cn"><img src="https://img.shields.io/badge/PKU%20Mail-1E90FF?style=for-the-badge&logo=minutemailer&logoColor=white" alt="PKU Mail" /></a>
-  <a href="https://x.com/MikeWan97935983"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-- ⚡ Fun fact: <!-- one line about yourself -->
+- 📫 How to reach me: <a href="mailto:fengw2002@gmail.com"><img height="22" src="https://img.shields.io/badge/-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a> <a href="mailto:fengwang@stu.pku.edu.cn"><img height="22" src="https://img.shields.io/badge/-1E90FF?style=flat-square&logo=minutemailer&logoColor=white" alt="PKU Mail" /></a> <a href="https://x.com/MikeWan97935983"><img height="22" src="https://img.shields.io/badge/-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
 
 ---
 
