@@ -7,7 +7,7 @@
 
 ### 🙋 About Me
 
-- 🔭 I'm currently working on: **Agent** · **Multimodal Understanding (VLM)** · **Omni / Unified Model** · **AIGC** · **GUI Agent**
+- 🔭 I'm currently working on: **Agent** · **GUI Agent** · **Multimodal Understanding (VLM)** · **Omni / Unified Model** · **AIGC** 
 - 🌱 I'm currently learning: Agentic systems / Harness & unified multimodal models & code generation (html/svg/...) · 📈 stock investing
 - 📫 How to reach me: <a href="mailto:fengw2002@gmail.com" title="Gmail"><img height="22" src="https://img.shields.io/badge/-EA4335?style=plastic&logo=gmail&logoColor=white" alt="Gmail" /></a> <a href="mailto:fengwang@stu.pku.edu.cn" title="PKU Mail"><img height="22" src="https://img.shields.io/badge/-1E90FF?style=plastic&logo=minutemailer&logoColor=white" alt="PKU Mail" /></a> <a href="https://x.com/MikeWan97935983" title="X @MikeWan97935983"><img height="22" src="https://img.shields.io/badge/-000000?style=plastic&logo=x&logoColor=white" alt="X" /></a>
 - 📄 CV / Resume: <a href="./resume_en.pdf" title="English CV"><img height="22" src="https://img.shields.io/badge/CV-English-B31B1B?style=plastic&logo=adobeacrobatreader&logoColor=white" alt="English CV" /></a>
