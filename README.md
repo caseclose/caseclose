@@ -24,6 +24,9 @@
   <a href="https://caseclose.github.io/cma-harness/" title="Project page"><img height="22" src="https://img.shields.io/badge/Project-Page-1F3A5F?style=plastic&logo=githubpages&logoColor=white" title="Project page" alt="Project page" /></a>
 - [**MLNLP-World/Top-AI-Conferences-Paper-with-Code**](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code) — contributor
   <img src="https://img.shields.io/github/stars/MLNLP-World/Top-AI-Conferences-Paper-with-Code?style=flat&label=stars" alt="stars" />
+- [**Kimi Work Pets**](https://github.com/caseclose/kimi-work-pets) — Desktop pets for the Kimi Work app: one-click install of 14 Codex Pets community sprites (Dimo, Hiyuki, Hu Tao, Miyabi, Violet...), with hover interactions & gaze-following head tracking (macOS / Windows)
+  <img src="https://img.shields.io/github/stars/caseclose/kimi-work-pets?style=flat&label=stars" alt="stars" />
+  <a href="https://caseclose.github.io/kimi-work-pets/" title="Gallery & demo site"><img height="22" src="https://img.shields.io/badge/Project-Page-1F3A5F?style=plastic&logo=githubpages&logoColor=white" title="Gallery & demo site" alt="Gallery & demo site" /></a>
 - [**Cadence**](https://github.com/caseclose/cadence) — CPU-scheduling-inspired task manager for multi-task life: suspend tasks + adaptive backoff polling reminders
 - [**Stock-assistant**](https://github.com/caseclose/stock-assistant) — US equities reference dashboard: watchlist, multi-timeframe charts, composite signals (FastAPI + Next.js + Alpaca)
 - [**YouTubeMusic-MacOS**](https://github.com/caseclose/YouTubeMusic-MacOS) — Native macOS desktop client for YouTube Music with media keys, tray & Control Center integration
