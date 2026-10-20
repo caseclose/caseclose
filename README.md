@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋, I'm 王峰 / Feng WANG</h2>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=caseclose&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=caseclose.caseclose&left_text=Profile%20Views&right_color=%230e75b6" alt="profile views" />
 </p>
 
 ---
