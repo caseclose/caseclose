@@ -7,7 +7,7 @@
 
 ### 🙋 About Me
 
-- 🔭 I'm currently working on: **Agent(@WeChat Xiaowei, 小微)** · **WeLM-Image(@WeChat)** · **GUI Agent** · **Multimodal Understanding (VLM)** · **Code-driven Generation** · **AIGC**
+- 🔭 I'm currently working on: **Agent(@WeChat Xiaowei, 小微)** · **WeLM-Image-V1(@WeChat Xiaowei, 微信小微生图/编辑模型)** · **GUI Agent** · **Multimodal Understanding (VLM)** · **Code-driven Generation** · **AIGC**
 - 🌱 I'm currently learning: Agentic systems / Harness & unified multimodal models & code generation (HTML / CSS / SVG / LaTeX) · 📈 stock investing
 - 📫 How to reach me: <a href="mailto:fengw2002@gmail.com" title="Gmail"><img height="22" src="https://img.shields.io/badge/-EA4335?style=plastic&logo=gmail&logoColor=white" alt="Gmail" /></a> <a href="mailto:fengwang@stu.pku.edu.cn" title="PKU Mail"><img height="22" src="https://img.shields.io/badge/-1E90FF?style=plastic&logo=minutemailer&logoColor=white" alt="PKU Mail" /></a> <a href="https://x.com/MikeWan97935983" title="X @MikeWan97935983"><img height="22" src="https://img.shields.io/badge/-000000?style=plastic&logo=x&logoColor=white" alt="X" /></a> <a href="https://www.zhihu.com/people/www-24-63-88" title="Zhihu"><img height="22" src="https://img.shields.io/badge/-0084FF?style=plastic&logo=zhihu&logoColor=white" alt="Zhihu" /></a>
 - 📄 CV / Resume: <a href="./resume_en.pdf" title="English CV"><img height="22" src="https://img.shields.io/badge/CV-English-B31B1B?style=plastic&logo=readme&logoColor=white" alt="English CV" /></a> <a href="./resume_zh.pdf" title="Chinese CV"><img height="22" src="https://img.shields.io/badge/CV-Chinese-1F3A5F?style=plastic&logo=readme&logoColor=white" alt="Chinese CV" /></a>
