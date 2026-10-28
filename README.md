@@ -21,7 +21,7 @@
 
 - <img src="./assets/pku.png" height="18" align="absmiddle" alt="PKU" /> **Peking University** · *M.S. in Computer Science and Technology*, School of Electronic and Computer Engineering (`2024.09 – 2027.06`)
   - *Research interests*: Multimodal Agents, Reinforcement Learning, Multimodal Understanding, Code-driven Data Synthesis
-- <img src="./assets/hit.png" height="18" align="absmiddle" alt="HIT" /> **Harbin Institute of Technology** · *B.S. in Information Security*, Faculty of Computing / Honors School (`2020.09 – 2024.06`, **Rank: 2 / 82**)
+- <img src="./assets/hit.png" height="18" align="absmiddle" alt="HIT" /> **Harbin Institute of Technology** · *B.S. in Computer Science (Information Security)*, Faculty of Computing / Honors School (`2020.09 – 2024.06`, **Rank: 2 / 82**)
 
 ---
 
