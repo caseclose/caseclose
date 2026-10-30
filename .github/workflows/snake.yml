@@ -34,6 +34,8 @@ jobs:
           from pathlib import Path
           p = Path("/tmp/gpsc/dist/index.js")
           s = p.read_text(encoding="utf-8")
+          # Drop email field from UserDetails GraphQL query so tokens without read:user scope succeed
+          s = s.replace("            name\n            email\n            createdAt", "            name\n            createdAt")
           # Include restrictedContributionsCount (private commits) in totalCommitContributions
           s = s.replace(
               "totalCommitContributions\n                contributionCalendar",
