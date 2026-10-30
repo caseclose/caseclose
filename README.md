@@ -51,19 +51,19 @@
 ### 📊 GitHub Stats
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caseclose/caseclose/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caseclose/caseclose/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/caseclose/caseclose/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caseclose&theme=tokyonight" alt="GitHub profile details" />
 </p>
 
 <p align="center">
   <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=caseclose&theme=tokyonight" alt="GitHub stats" />
   <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=caseclose&theme=tokyonight" alt="Top languages" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caseclose/caseclose/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caseclose/caseclose/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/caseclose/caseclose/output/github-contribution-grid-snake.svg" />
-  </picture>
 </p>
 
