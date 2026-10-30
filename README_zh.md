@@ -59,11 +59,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caseclose&theme=tokyonight" alt="GitHub profile details" />
+  <img src="https://raw.githubusercontent.com/caseclose/caseclose/output/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="GitHub profile details" />
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=caseclose&theme=tokyonight" alt="GitHub stats" />
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=caseclose&theme=tokyonight" alt="Top languages" />
+  <img height="160" src="https://raw.githubusercontent.com/caseclose/caseclose/output/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
+  <img height="160" src="https://raw.githubusercontent.com/caseclose/caseclose/output/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top languages" />
 </p>
 

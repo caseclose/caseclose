@@ -1,4 +1,4 @@
-name: generate snake animation
+name: generate profile widgets
 
 on:
   schedule:
@@ -20,11 +20,54 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: push github-contribution-grid-snake.svg to the output branch
+      - name: generate github-profile-summary-cards (with private contributions)
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+        run: |
+          git clone --depth 1 --branch v0.13.0 https://github.com/vn7n24fzkq/github-profile-summary-cards.git /tmp/gpsc
+          python3 - <<'PY'
+          from pathlib import Path
+          p = Path("/tmp/gpsc/dist/index.js")
+          s = p.read_text(encoding="utf-8")
+          # Include restrictedContributionsCount (private commits) in totalCommitContributions
+          s = s.replace(
+              "totalCommitContributions\n                contributionCalendar",
+              "totalCommitContributions\n                restrictedContributionsCount\n                contributionCalendar",
+          )
+          s = s.replace(
+              "query ContributionsByYearCommits($login: String!, $from: DateTime, $to: DateTime) {\n        user(login: $login) {\n            contributionsCollection(from: $from, to: $to) {\n                totalCommitContributions\n            }",
+              "query ContributionsByYearCommits($login: String!, $from: DateTime, $to: DateTime) {\n        user(login: $login) {\n            contributionsCollection(from: $from, to: $to) {\n                totalCommitContributions\n                restrictedContributionsCount\n            }",
+          )
+          s = s.replace(
+              "totalCommitContributions: user.contributionsCollection.totalCommitContributions",
+              "totalCommitContributions: (user.contributionsCollection.totalCommitContributions + (user.contributionsCollection.restrictedContributionsCount || 0))",
+          )
+          s = s.replace(
+              "totalCommitContributions: commitsRes.data.data.user.contributionsCollection\n                        .totalCommitContributions",
+              "totalCommitContributions: (commitsRes.data.data.user.contributionsCollection.totalCommitContributions + (commitsRes.data.data.user.contributionsCollection.restrictedContributionsCount || 0))",
+          )
+          # Include private repositories in repositoriesContributedTo
+          s = s.replace(
+              "repositoriesContributedTo(first: 1,includeUserRepositories:true, privacy:PUBLIC,",
+              "repositoriesContributedTo(first: 1,includeUserRepositories:true,",
+          )
+          p.write_text(s, encoding="utf-8")
+          PY
+          mkdir -p /tmp/gpsc-work
+          cd /tmp/gpsc-work
+          INPUT_USERNAME="${{ github.repository_owner }}" \
+          INPUT_THEME="tokyonight" \
+          INPUT_TIME_ZONE="Asia/Shanghai" \
+          INPUT_AUTO_PUSH="false" \
+          node /tmp/gpsc/dist/index.js
+          cp -r profile-summary-card-output "$GITHUB_WORKSPACE/dist/"
+
+      - name: push widgets to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
