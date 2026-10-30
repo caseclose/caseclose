@@ -21,7 +21,7 @@
 
 - <img src="./assets/pku.png" height="18" align="absmiddle" alt="PKU" /> **北京大学** · 信息工程学院 · *计算机科学与技术 硕士研究生*（`2024.09 – 2027.06`）
   - *研究方向*：多模态 Agent、强化学习、多模态理解、Code 驱动数据合成
-- <img src="./assets/hit.png" height="18" align="absmiddle" alt="HIT" /> **哈尔滨工业大学** · 计算学部 / 英才荣誉学院 · *信息安全（计算机类） 学士*（`2020.09 – 2024.06`，**专业排名：2 / 82**）
+- <img src="./assets/hit.png" height="18" align="absmiddle" alt="HIT" /> **哈尔滨工业大学** · 英才荣誉学院 · *信息安全（计算机类） 学士*（`2020.09 – 2024.06`，**专业排名：2 / 82**）
 
 ---
 
