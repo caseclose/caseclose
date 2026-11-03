@@ -20,6 +20,8 @@
 
 ## <img width="28" height="22" src="./assets/navigation/about.svg" alt="" />关于我
 
+<h3>研究与工作</h3>
+
 - 🔭 当前研究与工作方向：**Agent（@微信小微）** · **WeLM-Image-V1（@微信小微，生图/编辑模型）** · **GUI Agent** · **多模态理解（VLM）** · **代码驱动生成（Code-driven Generation）** · **AIGC**
 - 🌱 正在深入探索：多模态智能体系统 / Harness、统一理解生成基座模型与代码渲染合成（HTML / CSS / SVG / LaTeX） · 📈 美股量化与投资
 

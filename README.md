@@ -20,6 +20,8 @@
 
 ## <img width="28" height="22" src="./assets/navigation/about.svg" alt="" />About Me
 
+<h3>Research & Work</h3>
+
 - 🔭 I'm currently working on: **Agent(@WeChat Xiaowei, 小微)** · **WeLM-Image-V1(@WeChat Xiaowei, 微信小微生图/编辑模型)** · **GUI Agent** · **Multimodal Understanding (VLM)** · **Code-driven Generation** · **AIGC**
 - 🌱 I'm currently learning: Agentic systems / Harness & unified multimodal models & code generation (HTML / CSS / SVG / LaTeX) · 📈 stock investing
 
