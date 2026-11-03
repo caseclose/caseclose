@@ -114,7 +114,6 @@
 
 <p><b>模型与训练</b></p>
 <p>
-  <a href="https://www.python.org" title="Python"><img width="72" src="./assets/toolkit/python.svg" alt="Python" /></a>
   <a href="https://pytorch.org" title="PyTorch"><img width="72" src="./assets/toolkit/pytorch.svg" alt="PyTorch" /></a>
   <a href="https://github.com/modelscope/ms-swift" title="ms-swift"><img width="72" src="./assets/toolkit/modelscope.svg" alt="ms-swift" /></a>
   <a href="https://github.com/vllm-project/vllm" title="vLLM"><img width="72" src="./assets/toolkit/vllm.svg" alt="vLLM" /></a>
@@ -122,6 +121,7 @@
 </p>
 <p><b>代码与界面</b></p>
 <p>
+  <a href="https://www.python.org" title="Python"><img width="72" src="./assets/toolkit/python.svg" alt="Python" /></a>
   <a href="https://en.cppreference.com/w/c" title="C"><img width="72" src="./assets/toolkit/c.svg" alt="C" /></a>
   <a href="https://isocpp.org" title="C++"><img width="72" src="./assets/toolkit/cplusplus.svg" alt="C++" /></a>
   <a href="https://www.typescriptlang.org" title="TypeScript"><img width="72" src="./assets/toolkit/typescript.svg" alt="TypeScript" /></a>
