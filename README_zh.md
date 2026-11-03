@@ -4,8 +4,6 @@
   <img width="100%" src="./assets/profile-hero-light.svg" alt="Feng WANG / 王峰 — Multimodal Agents · Memory · Generation" />
 </picture>
 
-<p align="center"><b>研究多模态智能体与记忆机制，也制作日常用得上的工具。</b></p>
-
 <p align="center">
   <a href="mailto:fengw2002@gmail.com"><img height="23" src="https://img.shields.io/badge/Gmail-284b55?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Gmail" /></a> <a href="mailto:fengwang@stu.pku.edu.cn"><img height="23" src="https://img.shields.io/badge/PKU%20Mail-284b55?style=flat-square" alt="PKU Mail" /></a> <a href="https://x.com/MikeWan97935983"><img height="23" src="https://img.shields.io/badge/X-284b55?style=flat-square&amp;logo=x&amp;logoColor=white" alt="X" /></a> <a href="https://www.zhihu.com/people/www-24-63-88"><img height="23" src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-284b55?style=flat-square" alt="知乎" /></a> <a href="./resume_en.pdf"><img height="23" src="https://img.shields.io/badge/CV%20%C2%B7%20EN-317f73?style=flat-square" alt="CV · EN" /></a> <a href="./resume_zh.pdf"><img height="23" src="https://img.shields.io/badge/%E7%AE%80%E5%8E%86%20%C2%B7%20%E4%B8%AD%E6%96%87-317f73?style=flat-square" alt="简历 · 中文" /></a>
 </p>
@@ -22,9 +20,9 @@
 
 ## <img width="28" height="22" src="./assets/navigation/about.svg" alt="" />关于我
 
-<p><b>微信小微 / WeChat Xiaowei</b><br />Agent · WeLM-Image-V1（生图与编辑模型）</p>
-<p>多模态 Agent · GUI Agent · 多模态理解（VLM）<br />强化学习 · 代码驱动数据合成 · AIGC</p>
-<p><sub>持续探索 Agentic Systems / Harness、统一多模态模型，以及 HTML / CSS / SVG / LaTeX 代码生成；也在学习美股量化与投资。</sub></p>
+- 🔭 当前研究与工作方向：**Agent（@微信小微）** · **WeLM-Image-V1（@微信小微，生图/编辑模型）** · **GUI Agent** · **多模态理解（VLM）** · **代码驱动生成（Code-driven Generation）** · **AIGC**
+- 🌱 正在深入探索：多模态智能体系统 / Harness、统一理解生成基座模型与代码渲染合成（HTML / CSS / SVG / LaTeX） · 📈 美股量化与投资
+
 <h3>教育背景</h3>
 <p><img src="./assets/pku.png" height="24" alt="PKU" /> &nbsp; <b>北京大学</b> · 计算机科学与技术硕士研究生<br /><sub>信息工程学院 · 2024.09 – 2027.06</sub></p>
 <p><img src="./assets/hit.png" height="24" alt="HIT" /> &nbsp; <b>哈尔滨工业大学</b> · 信息安全（计算机类）学士<br /><sub>英才荣誉学院 · 2020.09 – 2024.06 · <b>专业排名 2 / 82</b></sub></p>

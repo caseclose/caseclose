@@ -4,8 +4,6 @@
   <img width="100%" src="./assets/profile-hero-light.svg" alt="Feng WANG / 王峰 — Multimodal Agents · Memory · Generation" />
 </picture>
 
-<p align="center"><b>Building multimodal agents, exploring memory, and making useful tools.</b></p>
-
 <p align="center">
   <a href="mailto:fengw2002@gmail.com"><img height="23" src="https://img.shields.io/badge/Gmail-284b55?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Gmail" /></a> <a href="mailto:fengwang@stu.pku.edu.cn"><img height="23" src="https://img.shields.io/badge/PKU%20Mail-284b55?style=flat-square" alt="PKU Mail" /></a> <a href="https://x.com/MikeWan97935983"><img height="23" src="https://img.shields.io/badge/X-284b55?style=flat-square&amp;logo=x&amp;logoColor=white" alt="X" /></a> <a href="https://www.zhihu.com/people/www-24-63-88"><img height="23" src="https://img.shields.io/badge/Zhihu-284b55?style=flat-square" alt="Zhihu" /></a> <a href="./resume_en.pdf"><img height="23" src="https://img.shields.io/badge/CV%20%C2%B7%20EN-317f73?style=flat-square" alt="CV · EN" /></a> <a href="./resume_zh.pdf"><img height="23" src="https://img.shields.io/badge/%E7%AE%80%E5%8E%86%20%C2%B7%20%E4%B8%AD%E6%96%87-317f73?style=flat-square" alt="简历 · 中文" /></a>
 </p>
@@ -22,9 +20,9 @@
 
 ## <img width="28" height="22" src="./assets/navigation/about.svg" alt="" />About Me
 
-<p><b>WeChat Xiaowei / 微信小微</b><br />Agent · WeLM-Image-V1 (image generation &amp; editing)</p>
-<p>Multimodal agents · GUI agents · VLMs<br />Reinforcement learning · Code-driven synthesis · AIGC</p>
-<p><sub>Exploring agentic systems / harness, unified multimodal models, and code generation (HTML / CSS / SVG / LaTeX). Also learning about stock investing.</sub></p>
+- 🔭 I'm currently working on: **Agent(@WeChat Xiaowei, 小微)** · **WeLM-Image-V1(@WeChat Xiaowei, 微信小微生图/编辑模型)** · **GUI Agent** · **Multimodal Understanding (VLM)** · **Code-driven Generation** · **AIGC**
+- 🌱 I'm currently learning: Agentic systems / Harness & unified multimodal models & code generation (HTML / CSS / SVG / LaTeX) · 📈 stock investing
+
 <h3>Education</h3>
 <p><img src="./assets/pku.png" height="24" alt="PKU" /> &nbsp; <b>Peking University</b> · M.S. in Computer Science and Technology<br /><sub>School of Electronic and Computer Engineering · 2024.09 – 2027.06</sub></p>
 <p><img src="./assets/hit.png" height="24" alt="HIT" /> &nbsp; <b>Harbin Institute of Technology</b> · B.S. in Computer Science (Information Security)<br /><sub>Honors School · 2020.09 – 2024.06 · <b>Rank 2 / 82</b></sub></p>
