@@ -40,6 +40,8 @@
   <img src="https://img.shields.io/github/stars/caseclose/work-encourager-open?style=flat&label=stars" alt="stars" />
   <a href="https://caseclose.github.io/work-encourager-open/" title="Live demo"><img height="22" src="https://img.shields.io/badge/Live-Demo-D95A2B?style=plastic&logo=githubpages&logoColor=white" title="Live demo" alt="Live demo" /></a>
   <a href="https://github.com/caseclose/work-encourager-open/releases/latest" title="macOS release"><img height="22" src="https://img.shields.io/badge/macOS-Release-1D1712?style=plastic&logo=apple&logoColor=white" title="macOS release" alt="macOS release" /></a>
+- [**My Skill Hub**](https://github.com/caseclose/my-skill-hub) — A collection of open-source agent skills I created, covering browser and macOS automation, local data dashboards, and GPU utilities
+  <img src="https://img.shields.io/github/stars/caseclose/my-skill-hub?style=flat&label=stars" alt="stars" />
 - [**Cadence**](https://caseclose.github.io/cadence/) — CPU-scheduling-inspired task manager for multi-task life: suspend tasks + adaptive backoff polling reminders
   <a href="https://caseclose.github.io/cadence/" title="Project page"><img height="22" src="https://img.shields.io/badge/Project-Page-1F3A5F?style=plastic&logo=githubpages&logoColor=white" title="Project page" alt="Project page" /></a>
 - [**Stock-assistant**](https://github.com/caseclose/stock-assistant) — US equities reference dashboard: watchlist, multi-timeframe charts, composite signals (FastAPI + Next.js + Alpaca)
