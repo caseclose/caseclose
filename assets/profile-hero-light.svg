@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-labelledby="title desc">
+  <title id="title">Feng WANG · 王峰</title>
+  <desc id="desc">Multimodal agents, memory, and generation. Research, engineering, and open source.</desc>
+  <rect width="1280" height="300" rx="18" fill="#eef5f3"/>
+  <path d="M780 0L640 300M1040 0L900 300M1300 0L1160 300" stroke="#bfd4ce" stroke-opacity=".35"/>
+  <circle cx="1064" cy="150" r="106" fill="none" stroke="#bfd4ce"/>
+  <circle cx="1064" cy="150" r="75" fill="none" stroke="#bfd4ce" stroke-dasharray="3 8"/>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif">
+    <rect x="48" y="43" width="4" height="18" rx="2" fill="#207e72"/>
+    <text x="66" y="57" fill="#54717c" font-size="14" font-weight="600" letter-spacing="2.8">RESEARCH / ENGINEERING / OPEN SOURCE</text>
+    <text x="48" y="144" fill="#17343e" font-size="72" font-weight="700" letter-spacing="-2">Feng WANG<tspan font-size="38" font-weight="400" fill="#54717c"> / 王峰</tspan></text>
+    <text x="51" y="191" fill="#17343e" font-size="22">Multimodal Agents · Memory · Generation</text>
+    <text x="51" y="253" fill="#54717c" font-size="16">@caseclose</text>
+    <path d="M171 247H622" stroke="#bfd4ce"/>
+    <g fill="none" stroke="#207e72" stroke-width="1.5">
+      <path d="M900 99L1031 139M900 202L1031 162M1090 149H1176"/>
+      <circle cx="1064" cy="150" r="29" fill="#f8fbfa"/>
+      <rect x="795" y="76" width="112" height="46" rx="9" fill="#f8fbfa"/>
+      <rect x="795" y="179" width="112" height="46" rx="9" fill="#f8fbfa"/>
+      <rect x="1138" y="128" width="94" height="46" rx="9" fill="#f8fbfa"/>
+    </g>
+    <g fill="#17343e" font-size="12" font-weight="600" letter-spacing="1.4" text-anchor="middle">
+      <text x="851" y="104">PERCEIVE</text><text x="851" y="207">REMEMBER</text><text x="1185" y="156">ACT</text>
+    </g>
+    <circle cx="1064" cy="150" r="6" fill="#207e72"/>
+  </g>
+</svg>

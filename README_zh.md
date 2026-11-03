@@ -1,75 +1,134 @@
-<h2 align="center">你好 👋，我是王峰 / Feng WANG</h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-hero-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-hero-light.svg" />
+  <img width="100%" src="./assets/profile-hero-light.svg" alt="Feng WANG / 王峰 — Multimodal Agents · Memory · Generation" />
+</picture>
+
+<p align="center"><b>研究多模态智能体与记忆机制，也制作日常用得上的工具。</b></p>
+
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=caseclose.caseclose&left_text=Profile%20Views&right_color=%230e75b6" alt="profile views" />
-  <a href="./README.md" title="Switch to English"><img height="20" src="https://img.shields.io/badge/Language-English-1F3A5F?style=flat-square" alt="English" /></a>
+  <a href="mailto:fengw2002@gmail.com"><img height="23" src="https://img.shields.io/badge/Gmail-284b55?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Gmail" /></a> <a href="mailto:fengwang@stu.pku.edu.cn"><img height="23" src="https://img.shields.io/badge/PKU%20Mail-284b55?style=flat-square" alt="PKU Mail" /></a> <a href="https://x.com/MikeWan97935983"><img height="23" src="https://img.shields.io/badge/X-284b55?style=flat-square&amp;logo=x&amp;logoColor=white" alt="X" /></a> <a href="https://www.zhihu.com/people/www-24-63-88"><img height="23" src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-284b55?style=flat-square" alt="知乎" /></a> <a href="./resume_en.pdf"><img height="23" src="https://img.shields.io/badge/CV%20%C2%B7%20EN-317f73?style=flat-square" alt="CV · EN" /></a> <a href="./resume_zh.pdf"><img height="23" src="https://img.shields.io/badge/%E7%AE%80%E5%8E%86%20%C2%B7%20%E4%B8%AD%E6%96%87-317f73?style=flat-square" alt="简历 · 中文" /></a>
 </p>
 
----
+<p align="center">
+  <a href="./README.md">English</a> &nbsp; · &nbsp;
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=caseclose.caseclose&amp;left_text=Profile%20Views&amp;right_color=%23317f73" alt="Profile views" />
+</p>
 
-### 🙋 关于我
+<p align="center"><a href="#关于我">关于我</a> &nbsp; / &nbsp; <a href="#开源项目与代表作">开源项目</a> &nbsp; / &nbsp; <a href="#技术与工具">技术与工具</a> &nbsp; / &nbsp; <a href="#github-贡献动态">贡献动态</a></p>
 
-- 🔭 当前研究与工作方向：**Agent（@微信小微）** · **WeLM-Image-V1（@微信小微，生图/编辑模型）** · **GUI Agent** · **多模态理解（VLM）** · **代码驱动生成（Code-driven Generation）** · **AIGC**
-- 🌱 正在深入探索：多模态智能体系统 / Harness、统一理解生成基座模型与代码渲染合成（HTML / CSS / SVG / LaTeX） · 📈 美股量化与投资
-- 📫 联系方式：<a href="mailto:fengw2002@gmail.com" title="Gmail"><img height="22" src="https://img.shields.io/badge/-EA4335?style=plastic&logo=gmail&logoColor=white" alt="Gmail" /></a> <a href="mailto:fengwang@stu.pku.edu.cn" title="PKU Mail"><img height="22" src="https://img.shields.io/badge/-1E90FF?style=plastic&logo=minutemailer&logoColor=white" alt="PKU Mail" /></a> <a href="https://x.com/MikeWan97935983" title="X @MikeWan97935983"><img height="22" src="https://img.shields.io/badge/-000000?style=plastic&logo=x&logoColor=white" alt="X" /></a> <a href="https://www.zhihu.com/people/www-24-63-88" title="知乎"><img height="22" src="https://img.shields.io/badge/-0084FF?style=plastic&logo=zhihu&logoColor=white" alt="Zhihu" /></a>
-- 📄 个人简历：<a href="./resume_zh.pdf" title="中文简历"><img height="22" src="https://img.shields.io/badge/%E7%AE%80%E5%8E%86-%E4%B8%AD%E6%96%87%E7%89%88-1F3A5F?style=plastic&logo=readme&logoColor=white" alt="中文简历" /></a> <a href="./resume_en.pdf" title="英文简历"><img height="22" src="https://img.shields.io/badge/CV-English-B31B1B?style=plastic&logo=readme&logoColor=white" alt="English CV" /></a>
-- 🛠️ 技术栈：<a href="https://www.python.org" title="Python"><img height="22" src="https://img.shields.io/badge/-3776AB?style=plastic&logo=python&logoColor=white" title="Python" alt="Python" /></a> <a href="https://pytorch.org" title="PyTorch"><img height="22" src="https://img.shields.io/badge/-EE4C2C?style=plastic&logo=pytorch&logoColor=white" title="PyTorch" alt="PyTorch" /></a> <a href="https://github.com/modelscope/ms-swift" title="ms-swift"><img height="22" src="https://img.shields.io/badge/-624AFF?style=plastic&logo=modelscope&logoColor=white" title="ms-swift" alt="ms-swift" /></a> <a href="https://github.com/vllm-project/vllm" title="vLLM"><img height="22" src="https://img.shields.io/badge/-2F6FED?style=plastic&logo=vllm&logoColor=white" title="vLLM" alt="vLLM" /></a> <a href="https://github.com/volcengine/verl" title="verl"><img height="22" src="https://raw.githubusercontent.com/volcengine/verl/main/docs/_static/logo.png" title="verl" alt="verl" /></a> <a href="https://en.cppreference.com/w/c" title="C"><img height="22" src="https://img.shields.io/badge/-A8B9CC?style=plastic&logo=c&logoColor=black" title="C" alt="C" /></a> <a href="https://isocpp.org" title="C++"><img height="22" src="https://img.shields.io/badge/-00599C?style=plastic&logo=cplusplus&logoColor=white" title="C++" alt="C++" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML"><img height="22" src="https://img.shields.io/badge/-E34F26?style=plastic&logo=html5&logoColor=white" title="HTML" alt="HTML" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS"><img height="22" src="https://img.shields.io/badge/-1572B6?style=plastic&logo=css&logoColor=white" title="CSS" alt="CSS" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/SVG" title="SVG"><img height="22" src="https://img.shields.io/badge/-FFB13B?style=plastic&logo=svg&logoColor=black" title="SVG" alt="SVG" /></a> <a href="https://www.typescriptlang.org" title="TypeScript"><img height="22" src="https://img.shields.io/badge/-3178C6?style=plastic&logo=typescript&logoColor=white" title="TypeScript" alt="TypeScript" /></a> <a href="https://react.dev" title="React"><img height="22" src="https://img.shields.io/badge/-61DAFB?style=plastic&logo=react&logoColor=black" title="React" alt="React" /></a> <a href="https://git-scm.com" title="Git"><img height="22" src="https://img.shields.io/badge/-F05032?style=plastic&logo=git&logoColor=white" title="Git" alt="Git" /></a>
-- 🤖 AI 编程工具：<a href="https://www.anthropic.com/claude-code" title="Claude Code"><img height="22" src="https://img.shields.io/badge/-D97757?style=plastic&logo=claude&logoColor=white" title="Claude Code" alt="Claude Code" /></a> <a href="https://cursor.com" title="Cursor"><img height="22" src="https://img.shields.io/badge/-000000?style=plastic&logo=cursor&logoColor=white" title="Cursor" alt="Cursor" /></a> <a href="https://opencode.ai" title="OpenCode"><img height="22" src="https://img.shields.io/badge/-1E1E1E?style=plastic&logo=opencode&logoColor=white" title="OpenCode" alt="OpenCode" /></a> <a href="https://www.kimi.com/code" title="Kimi Code"><img height="22" src="https://img.shields.io/badge/-3B5BFD?style=plastic&logo=kimi&logoColor=white" title="Kimi Code" alt="Kimi Code" /></a> <a href="https://openai.com/codex" title="Codex"><img height="22" src="https://img.shields.io/badge/-000000?style=plastic&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiIGZpbGwtcnVsZT0iZXZlbm9kZCI+CiAgPHRpdGxlPkNvZGV4IChPcGVuQUkpPC90aXRsZT4KICA8cGF0aCBjbGlwLXJ1bGU9ImV2ZW5vZGQiCiAgICAgICAgZD0iTTguMDg2LjQ1N2E2LjEwNSA2LjEwNSAwIDAxMy4wNDYtLjQxNWMxLjMzMy4xNTMgMi41MjEuNzIgMy41NjQgMS43YS4xMTcuMTE3IDAgMDAuMTA3LjAyOWMxLjQwOC0uMzQ2IDIuNzYyLS4yMjQgNC4wNjEuMzY2bC4wNjMuMDMuMTU0LjA3NmMxLjM1Ny43MDMgMi4zMyAxLjc3IDIuOTE4IDMuMTk4LjI3OC42NzkuNDE4IDEuMzg4LjQyMSAyLjEyNmE1LjY1NSA1LjY1NSAwIDAxLS4xOCAxLjYzMS4xNjcuMTY3IDAgMDAuMDQuMTU1IDUuOTgyIDUuOTgyIDAgMDExLjU3OCAyLjg5MWMuMzg1IDEuOTAxLS4wMSAzLjYxNS0xLjE4MyA1LjE0bC0uMTgyLjIyYTYuMDYzIDYuMDYzIDAgMDEtMi45MzQgMS44NTEuMTYyLjE2MiAwIDAwLS4xMDguMTAyYy0uMjU1LjczNi0uNTExIDEuMzY0LS45ODcgMS45OTItMS4xOTkgMS41ODItMi45NjIgMi40NjItNC45NDggMi40NTEtMS41ODMtLjAwOC0yLjk4Ni0uNTg3LTQuMjEtMS43MzZhLjE0NS4xNDUgMCAwMC0uMTQtLjAzMmMtLjUxOC4xNjctMS4wNC4xOTEtMS42MDQuMTg1YTUuOTI0IDUuOTI0IDAgMDEtMi41OTUtLjYyMiA2LjA1OCA2LjA1OCAwIDAxLTIuMTQ2LTEuNzgxYy0uMjAzLS4yNjktLjQwNC0uNTIyLS41NTEtLjgyMWE3Ljc0IDcuNzQgMCAwMS0uNDk1LTEuMjgzIDYuMTEgNi4xMSAwIDAxLS4wMTctMy4wNjQuMTY2LjE2NiAwIDAwLjAwOC0uMDc0LjExNS4xMTUgMCAwMC0uMDM3LS4wNjQgNS45NTggNS45NTggMCAwMS0xLjM4LTIuMjAyIDUuMTk2IDUuMTk2IDAgMDEtLjMzMy0xLjU4OSA2LjkxNSA2LjkxNSAwIDAxLjE4OC0yLjEzMmMuNDUtMS40ODQgMS4zMDktMi42NDggMi41NzctMy40OTMuMjgyLS4xODguNTUtLjMzNC44MDItLjQzOC4yODYtLjEyLjU3My0uMjIuODYxLS4zMDRhLjEyOS4xMjkgMCAwMC4wODctLjA4N0E2LjAxNiA2LjAxNiAwIDAxNS42MzUgMi4zMUM2LjMxNSAxLjQ2NCA3LjEzMi44NDYgOC4wODYuNDU3em0tLjgwNCA3Ljg1YS44NDguODQ4IDAgMDAtMS40NzMuODQybDEuNjk0IDIuOTY1LTEuNjg4IDIuODQ4YS44NDkuODQ5IDAgMDAxLjQ2Ljg2NGwxLjk0LTMuMjcyYS44NDkuODQ5IDAgMDAuMDA3LS44NTRsLTEuOTQtMy4zOTN6bTUuNDQ2IDYuMjRhLjg0OS44NDkgMCAwMDAgMS42OTVoNC44NDhhLjg0OS44NDkgMCAwMDAtMS42OTZoLTQuODQ4eiIgLz4KPC9zdmc+" title="Codex" alt="Codex" /></a> <a href="https://zcode.z.ai" title="ZCode"><img height="22" src="https://www.google.com/s2/favicons?domain=z.ai&sz=128" title="ZCode" alt="ZCode" /></a>
+## 关于我
 
----
+<p><b>微信小微 / WeChat Xiaowei</b><br />Agent · WeLM-Image-V1（生图与编辑模型）</p>
+<p>多模态 Agent · GUI Agent · 多模态理解（VLM）<br />强化学习 · 代码驱动数据合成 · AIGC</p>
+<p><sub>持续探索 Agentic Systems / Harness、统一多模态模型，以及 HTML / CSS / SVG / LaTeX 代码生成；也在学习美股量化与投资。</sub></p>
+<h3>教育背景</h3>
+<p><img src="./assets/pku.png" height="24" alt="PKU" /> &nbsp; <b>北京大学</b> · 计算机科学与技术硕士研究生<br /><sub>信息工程学院 · 2024.09 – 2027.06</sub></p>
+<p><img src="./assets/hit.png" height="24" alt="HIT" /> &nbsp; <b>哈尔滨工业大学</b> · 信息安全（计算机类）学士<br /><sub>英才荣誉学院 · 2020.09 – 2024.06 · <b>专业排名 2 / 82</b></sub></p>
 
-### 🎓 教育背景
+## 开源项目与代表作
 
-- <img src="./assets/pku.png" height="18" align="absmiddle" alt="PKU" /> **北京大学** · 信息工程学院 · *计算机科学与技术 硕士研究生*（`2024.09 – 2027.06`）
-  - *研究方向*：多模态 Agent、强化学习、多模态理解、Code 驱动数据合成
-- <img src="./assets/hit.png" height="18" align="absmiddle" alt="HIT" /> **哈尔滨工业大学** · 英才荣誉学院 · *信息安全（计算机类） 学士*（`2020.09 – 2024.06`，**专业排名：2 / 82**）
+<table width="100%">
+<tr><td>
+<p><sub>01 / 多模态智能体研究</sub></p>
+<h3><a href="https://caseclose.github.io/cma-harness/">CMA-Harness</a></h3>
+<p><b>认知结构化多模态智能体框架。</b>面向长程多模态理解、生成与编辑，将视觉历史外置为情景记忆并进行选择性检索，附 M2CA-Bench 基准。</p>
 
----
+<p><a href="https://github.com/caseclose/cma-harness/stargazers"><img src="https://img.shields.io/github/stars/caseclose/cma-harness?style=flat-square&amp;label=stars&amp;color=377d76" alt="cma-harness stars" /></a> <a href="https://arxiv.org/abs/2607.08497">论文 ↗</a> · <a href="https://caseclose.github.io/cma-harness/">项目主页 ↗</a></p>
+</td></tr>
+<tr><td>
+<p><sub>02 / 开源贡献</sub></p>
+<h3><a href="https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code">Top AI Papers with Code</a></h3>
+<p><b>MLNLP-World / Top-AI-Conferences-Paper-with-Code</b> 贡献者，参与顶会论文与代码汇总。</p>
 
-### 🌟 开源项目与代表作
+<p><a href="https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/stargazers"><img src="https://img.shields.io/github/stars/MLNLP-World/Top-AI-Conferences-Paper-with-Code?style=flat-square&amp;label=stars&amp;color=377d76" alt="Top-AI-Conferences-Paper-with-Code stars" /></a></p>
+</td></tr>
+<tr><td>
+<p><sub>03 / AGENT 技能</sub></p>
+<h3><a href="https://github.com/caseclose/my-skill-hub">My Skill Hub</a></h3>
+<p>我个人制作的开源 Agent Skills 仓库。</p>
+<ul>
+<li><a href="https://github.com/caseclose/computer-use-skill"><b>Computer Use Skill</b></a> — 浏览器与 macOS 原生应用自动化</li>
+<li><a href="https://github.com/caseclose/html-viewer-skill"><b>HTML Viewer</b></a> — 本地数据网页与看板</li>
+<li><a href="https://github.com/caseclose/gpu_utl_occupy_skill"><b>GPU Occupy</b></a> — GPU 可控负载与利用率调节</li>
+</ul>
+<p><a href="https://github.com/caseclose/my-skill-hub/stargazers"><img src="https://img.shields.io/github/stars/caseclose/my-skill-hub?style=flat-square&amp;label=stars&amp;color=377d76" alt="my-skill-hub stars" /></a></p>
+</td></tr>
+</table>
 
-- [**CMA-Harness**](https://caseclose.github.io/cma-harness/) — 认知结构化多模态智能体框架（Cognitive-structured Multimodal Agent Harness）：面向长程多模态理解、生成与编辑的视觉记忆外置 Agent（附 M2CA-Bench 基准）
-  <img src="https://img.shields.io/github/stars/caseclose/cma-harness?style=flat&label=stars" alt="stars" />
-  <a href="https://arxiv.org/abs/2607.08497" title="arXiv 论文"><img height="22" src="https://img.shields.io/badge/arXiv-2607.08497-B31B1B?style=plastic&logo=arxiv&logoColor=white" title="arXiv 论文" alt="arXiv" /></a>
-  <a href="https://caseclose.github.io/cma-harness/" title="项目主页"><img height="22" src="https://img.shields.io/badge/Project-Page-1F3A5F?style=plastic&logo=githubpages&logoColor=white" title="项目主页" alt="Project page" /></a>
-- [**MLNLP-World/Top-AI-Conferences-Paper-with-Code**](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code) — 顶会论文代码汇总仓库贡献者
-  <img src="https://img.shields.io/github/stars/MLNLP-World/Top-AI-Conferences-Paper-with-Code?style=flat&label=stars" alt="stars" />
-- [**My Skill Hub**](https://github.com/caseclose/my-skill-hub) — 我个人制作的开源 Agent Skills 仓库
-  <img src="https://img.shields.io/github/stars/caseclose/my-skill-hub?style=flat&label=stars" alt="stars" />
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<p><sub>04 / 桌面伙伴</sub></p>
+<h3><a href="https://caseclose.github.io/kimi-work-pets/">Kimi Work Pets</a></h3>
+<p>为 Kimi Work 一键安装 14 款 Codex Pets 社区精灵，支持悬停交互与视线跟随转头，适配 macOS / Windows。</p>
 
-  - [**Computer Use Skill**](https://github.com/caseclose/computer-use-skill) — 浏览器与 macOS 原生应用自动化
-  - [**HTML Viewer**](https://github.com/caseclose/html-viewer-skill) — 本地数据网页与看板
-  - [**GPU Occupy**](https://github.com/caseclose/gpu_utl_occupy_skill) — GPU 可控负载与利用率调节
-- [**Kimi Work Pets**](https://caseclose.github.io/kimi-work-pets/) — Kimi Work 桌面宠物插件：一键安装 14 款 Codex Pets 社区精灵（Dimo、Hiyuki、胡桃、雅、Violet 等），支持悬停交互与视线跟随转头（macOS / Windows）
-  <img src="https://img.shields.io/github/stars/caseclose/kimi-work-pets?style=flat&label=stars" alt="stars" />
-  <a href="https://caseclose.github.io/kimi-work-pets/" title="展示与演示页"><img height="22" src="https://img.shields.io/badge/Project-Page-1F3A5F?style=plastic&logo=githubpages&logoColor=white" title="展示与演示页" alt="Gallery & demo site" /></a>
-- [**Work Encourager**](https://github.com/caseclose/work-encourager-open) — 实时收入追踪激励工具：把每一分钟的工作转化为可视化进度与目标反馈，提供交互式网页版与 macOS 原生菜单栏应用
-  <img src="https://img.shields.io/github/stars/caseclose/work-encourager-open?style=flat&label=stars" alt="stars" />
-  <a href="https://caseclose.github.io/work-encourager-open/" title="在线体验"><img height="22" src="https://img.shields.io/badge/Live-Demo-D95A2B?style=plastic&logo=githubpages&logoColor=white" title="在线体验" alt="Live demo" /></a>
-  <a href="https://github.com/caseclose/work-encourager-open/releases/latest" title="macOS 客户端下载"><img height="22" src="https://img.shields.io/badge/macOS-Release-1D1712?style=plastic&logo=apple&logoColor=white" title="macOS 客户端下载" alt="macOS release" /></a>
-- [**Cadence**](https://caseclose.github.io/cadence/) — 受操作系统 CPU 调度启发的多任务时间管理器：支持任务挂起与自适应退避轮询提醒
-  <a href="https://caseclose.github.io/cadence/" title="项目主页"><img height="22" src="https://img.shields.io/badge/Project-Page-1F3A5F?style=plastic&logo=githubpages&logoColor=white" title="项目主页" alt="Project page" /></a>
-- [**Stock-assistant**](https://github.com/caseclose/stock-assistant) — 美股多周期看板与综合信号分析系统（FastAPI + Next.js + Alpaca）
-- [**YouTubeMusic-MacOS**](https://github.com/caseclose/YouTubeMusic-MacOS) — 原生 macOS YouTube Music 桌面客户端，支持媒体键、状态栏托盘与控制中心集成
-- [**Mymd-editor**](https://github.com/caseclose/mymd-editor) — Typora 风格的 Windows Markdown 编辑器（Electron + Milkdown）
+<p><a href="https://github.com/caseclose/kimi-work-pets/stargazers"><img src="https://img.shields.io/github/stars/caseclose/kimi-work-pets?style=flat-square&amp;label=stars&amp;color=377d76" alt="kimi-work-pets stars" /></a> <a href="https://caseclose.github.io/kimi-work-pets/">展示与演示 ↗</a></p>
+</td>
+<td width="50%" valign="top">
+<p><sub>05 / 日常工具</sub></p>
+<h3><a href="https://github.com/caseclose/work-encourager-open">Work Encourager</a></h3>
+<p>把每一分钟的工作转化为可视化收入进度与目标反馈，提供交互式网页版和 macOS 原生菜单栏应用。</p>
 
----
+<p><a href="https://github.com/caseclose/work-encourager-open/stargazers"><img src="https://img.shields.io/github/stars/caseclose/work-encourager-open?style=flat-square&amp;label=stars&amp;color=377d76" alt="work-encourager-open stars" /></a> <a href="https://caseclose.github.io/work-encourager-open/">在线体验 ↗</a> · <a href="https://github.com/caseclose/work-encourager-open/releases/latest">macOS ↗</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><sub>06 / 任务管理</sub></p>
+<h3><a href="https://caseclose.github.io/cadence/">Cadence</a></h3>
+<p>受操作系统 CPU 调度启发的多任务时间管理器，支持任务挂起与自适应退避轮询提醒。</p>
 
-### 📊 GitHub 统计
+<p> <a href="https://caseclose.github.io/cadence/">项目主页 ↗</a></p>
+</td>
+<td width="50%" valign="top">
+<p><sub>07 / 行情看板</sub></p>
+<h3><a href="https://github.com/caseclose/stock-assistant">Stock-assistant</a></h3>
+<p>美股多周期看板与综合信号分析系统，包含自选股、多周期图表与综合信号。<br /><sub>FastAPI · Next.js · Alpaca</sub></p>
 
+<p> <a href="https://github.com/caseclose/stock-assistant">仓库 ↗</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><sub>08 / 原生 MACOS</sub></p>
+<h3><a href="https://github.com/caseclose/YouTubeMusic-MacOS">YouTubeMusic-MacOS</a></h3>
+<p>原生 macOS YouTube Music 桌面客户端，支持媒体键、状态栏托盘与控制中心集成。</p>
+
+<p> <a href="https://github.com/caseclose/YouTubeMusic-MacOS">仓库 ↗</a></p>
+</td>
+<td width="50%" valign="top">
+<p><sub>09 / 写作工具</sub></p>
+<h3><a href="https://github.com/caseclose/mymd-editor">Mymd-editor</a></h3>
+<p>Typora 风格的 Windows Markdown 编辑器。<br /><sub>Electron · Milkdown</sub></p>
+
+<p> <a href="https://github.com/caseclose/mymd-editor">仓库 ↗</a></p>
+</td>
+</tr>
+</table>
+
+## 技术与工具
+
+<p><b>模型与训练</b><br />
+<a href="https://www.python.org">Python</a> &nbsp; · &nbsp; <a href="https://pytorch.org">PyTorch</a> &nbsp; · &nbsp; <a href="https://github.com/modelscope/ms-swift">ms-swift</a> &nbsp; · &nbsp; <a href="https://github.com/vllm-project/vllm">vLLM</a> &nbsp; · &nbsp; <a href="https://github.com/volcengine/verl">verl</a></p>
+<p><b>代码与界面</b><br />
+<a href="https://en.cppreference.com/w/c">C</a> &nbsp; · &nbsp; <a href="https://isocpp.org">C++</a> &nbsp; · &nbsp; <a href="https://www.typescriptlang.org">TypeScript</a> &nbsp; · &nbsp; <a href="https://react.dev">React</a> &nbsp; · &nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a> &nbsp; · &nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a> &nbsp; · &nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/SVG">SVG</a> &nbsp; · &nbsp; <a href="https://git-scm.com">Git</a></p>
+<p><b>AI 编程工具</b><br />
+<a href="https://www.anthropic.com/claude-code">Claude Code</a> &nbsp; · &nbsp; <a href="https://cursor.com">Cursor</a> &nbsp; · &nbsp; <a href="https://opencode.ai">OpenCode</a> &nbsp; · &nbsp; <a href="https://www.kimi.com/code">Kimi Code</a> &nbsp; · &nbsp; <a href="https://openai.com/codex">Codex</a> &nbsp; · &nbsp; <a href="https://zcode.z.ai">ZCode</a></p>
+
+## GitHub 贡献动态
+
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/caseclose/caseclose/output/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="GitHub contribution and activity summary" />
+</p>
+<p align="center">
+  <img width="48%" src="https://raw.githubusercontent.com/caseclose/caseclose/output/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub statistics" />
+  <img width="48%" src="https://raw.githubusercontent.com/caseclose/caseclose/output/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repositories by language" />
+</p>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caseclose/caseclose/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caseclose/caseclose/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/caseclose/caseclose/output/github-contribution-grid-snake.svg" />
+    <img width="100%" src="https://raw.githubusercontent.com/caseclose/caseclose/output/github-contribution-grid-snake.svg" alt="Contribution grid snake animation" />
   </picture>
 </p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/caseclose/caseclose/output/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="GitHub profile details" />
-</p>
-
-<p align="center">
-  <img height="160" src="https://raw.githubusercontent.com/caseclose/caseclose/output/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
-  <img height="160" src="https://raw.githubusercontent.com/caseclose/caseclose/output/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top languages" />
-</p>
-
