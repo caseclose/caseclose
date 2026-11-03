@@ -20,7 +20,7 @@
   <a href="#技术与工具" title="技术与工具"><img height="24" src="./assets/navigation/toolkit-zh.svg" alt="技术与工具" /></a>
   <a href="#github-贡献动态" title="GitHub 贡献动态"><img height="24" src="./assets/navigation/activity-zh.svg" alt="GitHub 贡献动态" /></a></p>
 
-## <img width="22" height="22" src="./assets/navigation/about.svg" alt="" /> 关于我
+## <img width="28" height="22" src="./assets/navigation/about.svg" alt="" />关于我
 
 <p><b>微信小微 / WeChat Xiaowei</b><br />Agent · WeLM-Image-V1（生图与编辑模型）</p>
 <p>多模态 Agent · GUI Agent · 多模态理解（VLM）<br />强化学习 · 代码驱动数据合成 · AIGC</p>
@@ -29,7 +29,7 @@
 <p><img src="./assets/pku.png" height="24" alt="PKU" /> &nbsp; <b>北京大学</b> · 计算机科学与技术硕士研究生<br /><sub>信息工程学院 · 2024.09 – 2027.06</sub></p>
 <p><img src="./assets/hit.png" height="24" alt="HIT" /> &nbsp; <b>哈尔滨工业大学</b> · 信息安全（计算机类）学士<br /><sub>英才荣誉学院 · 2020.09 – 2024.06 · <b>专业排名 2 / 82</b></sub></p>
 
-## <img width="22" height="22" src="./assets/navigation/projects.svg" alt="" /> 开源项目与代表作
+## <img width="28" height="22" src="./assets/navigation/projects.svg" alt="" />开源项目与代表作
 
 <table width="100%">
 <tr><td>
@@ -110,7 +110,7 @@
 </tr>
 </table>
 
-## <img width="22" height="22" src="./assets/navigation/toolkit.svg" alt="" /> 技术与工具
+## <img width="28" height="22" src="./assets/navigation/toolkit.svg" alt="" />技术与工具
 
 <p><b>模型与训练</b></p>
 <p>
@@ -141,7 +141,7 @@
   <a href="https://zcode.z.ai" title="ZCode"><img width="72" src="./assets/toolkit/zcode.svg" alt="ZCode" /></a>
 </p>
 
-## <img width="22" height="22" src="./assets/navigation/activity.svg" alt="" /> GitHub 贡献动态
+## <img width="28" height="22" src="./assets/navigation/activity.svg" alt="" />GitHub 贡献动态
 
 <p align="center">
   <img width="100%" src="https://raw.githubusercontent.com/caseclose/caseclose/output/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="GitHub contribution and activity summary" />

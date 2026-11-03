@@ -20,7 +20,7 @@
   <a href="#tech--tools" title="Tech &amp; Tools"><img height="24" src="./assets/navigation/toolkit-en.svg" alt="Tech &amp; Tools" /></a>
   <a href="#github-activity" title="GitHub Activity"><img height="24" src="./assets/navigation/activity-en.svg" alt="GitHub Activity" /></a></p>
 
-## <img width="22" height="22" src="./assets/navigation/about.svg" alt="" /> About Me
+## <img width="28" height="22" src="./assets/navigation/about.svg" alt="" />About Me
 
 <p><b>WeChat Xiaowei / 微信小微</b><br />Agent · WeLM-Image-V1 (image generation &amp; editing)</p>
 <p>Multimodal agents · GUI agents · VLMs<br />Reinforcement learning · Code-driven synthesis · AIGC</p>
@@ -29,7 +29,7 @@
 <p><img src="./assets/pku.png" height="24" alt="PKU" /> &nbsp; <b>Peking University</b> · M.S. in Computer Science and Technology<br /><sub>School of Electronic and Computer Engineering · 2024.09 – 2027.06</sub></p>
 <p><img src="./assets/hit.png" height="24" alt="HIT" /> &nbsp; <b>Harbin Institute of Technology</b> · B.S. in Computer Science (Information Security)<br /><sub>Honors School · 2020.09 – 2024.06 · <b>Rank 2 / 82</b></sub></p>
 
-## <img width="22" height="22" src="./assets/navigation/projects.svg" alt="" /> Open Source & Projects
+## <img width="28" height="22" src="./assets/navigation/projects.svg" alt="" />Open Source & Projects
 
 <table width="100%">
 <tr><td>
@@ -110,7 +110,7 @@
 </tr>
 </table>
 
-## <img width="22" height="22" src="./assets/navigation/toolkit.svg" alt="" /> Tech & Tools
+## <img width="28" height="22" src="./assets/navigation/toolkit.svg" alt="" />Tech & Tools
 
 <p><b>Models &amp; training</b></p>
 <p>
@@ -141,7 +141,7 @@
   <a href="https://zcode.z.ai" title="ZCode"><img width="72" src="./assets/toolkit/zcode.svg" alt="ZCode" /></a>
 </p>
 
-## <img width="22" height="22" src="./assets/navigation/activity.svg" alt="" /> GitHub Activity
+## <img width="28" height="22" src="./assets/navigation/activity.svg" alt="" />GitHub Activity
 
 <p align="center">
   <img width="100%" src="https://raw.githubusercontent.com/caseclose/caseclose/output/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="GitHub contribution and activity summary" />
