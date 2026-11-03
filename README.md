@@ -33,8 +33,12 @@
   <a href="https://caseclose.github.io/cma-harness/" title="Project page"><img height="22" src="https://img.shields.io/badge/Project-Page-1F3A5F?style=plastic&logo=githubpages&logoColor=white" title="Project page" alt="Project page" /></a>
 - [**MLNLP-World/Top-AI-Conferences-Paper-with-Code**](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code) — contributor
   <img src="https://img.shields.io/github/stars/MLNLP-World/Top-AI-Conferences-Paper-with-Code?style=flat&label=stars" alt="stars" />
-- [**My Skill Hub**](https://github.com/caseclose/my-skill-hub) — A collection of open-source agent skills I created, covering browser and macOS automation, local data dashboards, and GPU utilities
+- [**My Skill Hub**](https://github.com/caseclose/my-skill-hub) — A collection of open-source agent skills I created
   <img src="https://img.shields.io/github/stars/caseclose/my-skill-hub?style=flat&label=stars" alt="stars" />
+
+  - [**Computer Use Skill**](https://github.com/caseclose/computer-use-skill) — Browser and macOS app automation
+  - [**HTML Viewer**](https://github.com/caseclose/html-viewer-skill) — Local data pages and dashboards
+  - [**GPU Occupy**](https://github.com/caseclose/gpu_utl_occupy_skill) — Controlled GPU workloads and utilization
 - [**Kimi Work Pets**](https://caseclose.github.io/kimi-work-pets/) — Desktop pets for the Kimi Work app: one-click install of 14 Codex Pets community sprites (Dimo, Hiyuki, Hu Tao, Miyabi, Violet...), with hover interactions & gaze-following head tracking (macOS / Windows)
   <img src="https://img.shields.io/github/stars/caseclose/kimi-work-pets?style=flat&label=stars" alt="stars" />
   <a href="https://caseclose.github.io/kimi-work-pets/" title="Gallery & demo site"><img height="22" src="https://img.shields.io/badge/Project-Page-1F3A5F?style=plastic&logo=githubpages&logoColor=white" title="Gallery & demo site" alt="Gallery & demo site" /></a>

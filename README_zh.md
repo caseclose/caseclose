@@ -33,8 +33,12 @@
   <a href="https://caseclose.github.io/cma-harness/" title="项目主页"><img height="22" src="https://img.shields.io/badge/Project-Page-1F3A5F?style=plastic&logo=githubpages&logoColor=white" title="项目主页" alt="Project page" /></a>
 - [**MLNLP-World/Top-AI-Conferences-Paper-with-Code**](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code) — 顶会论文代码汇总仓库贡献者
   <img src="https://img.shields.io/github/stars/MLNLP-World/Top-AI-Conferences-Paper-with-Code?style=flat&label=stars" alt="stars" />
-- [**My Skill Hub**](https://github.com/caseclose/my-skill-hub) — 我个人制作的开源 Agent Skills 仓库，涵盖浏览器与 macOS 自动化、本地数据看板和 GPU 工具
+- [**My Skill Hub**](https://github.com/caseclose/my-skill-hub) — 我个人制作的开源 Agent Skills 仓库
   <img src="https://img.shields.io/github/stars/caseclose/my-skill-hub?style=flat&label=stars" alt="stars" />
+
+  - [**Computer Use Skill**](https://github.com/caseclose/computer-use-skill) — 浏览器与 macOS 原生应用自动化
+  - [**HTML Viewer**](https://github.com/caseclose/html-viewer-skill) — 本地数据网页与看板
+  - [**GPU Occupy**](https://github.com/caseclose/gpu_utl_occupy_skill) — GPU 可控负载与利用率调节
 - [**Kimi Work Pets**](https://caseclose.github.io/kimi-work-pets/) — Kimi Work 桌面宠物插件：一键安装 14 款 Codex Pets 社区精灵（Dimo、Hiyuki、胡桃、雅、Violet 等），支持悬停交互与视线跟随转头（macOS / Windows）
   <img src="https://img.shields.io/github/stars/caseclose/kimi-work-pets?style=flat&label=stars" alt="stars" />
   <a href="https://caseclose.github.io/kimi-work-pets/" title="展示与演示页"><img height="22" src="https://img.shields.io/badge/Project-Page-1F3A5F?style=plastic&logo=githubpages&logoColor=white" title="展示与演示页" alt="Gallery & demo site" /></a>
