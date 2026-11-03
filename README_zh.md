@@ -33,6 +33,8 @@
   <a href="https://caseclose.github.io/cma-harness/" title="项目主页"><img height="22" src="https://img.shields.io/badge/Project-Page-1F3A5F?style=plastic&logo=githubpages&logoColor=white" title="项目主页" alt="Project page" /></a>
 - [**MLNLP-World/Top-AI-Conferences-Paper-with-Code**](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code) — 顶会论文代码汇总仓库贡献者
   <img src="https://img.shields.io/github/stars/MLNLP-World/Top-AI-Conferences-Paper-with-Code?style=flat&label=stars" alt="stars" />
+- [**My Skill Hub**](https://github.com/caseclose/my-skill-hub) — 我个人制作的开源 Agent Skills 仓库，涵盖浏览器与 macOS 自动化、本地数据看板和 GPU 工具
+  <img src="https://img.shields.io/github/stars/caseclose/my-skill-hub?style=flat&label=stars" alt="stars" />
 - [**Kimi Work Pets**](https://caseclose.github.io/kimi-work-pets/) — Kimi Work 桌面宠物插件：一键安装 14 款 Codex Pets 社区精灵（Dimo、Hiyuki、胡桃、雅、Violet 等），支持悬停交互与视线跟随转头（macOS / Windows）
   <img src="https://img.shields.io/github/stars/caseclose/kimi-work-pets?style=flat&label=stars" alt="stars" />
   <a href="https://caseclose.github.io/kimi-work-pets/" title="展示与演示页"><img height="22" src="https://img.shields.io/badge/Project-Page-1F3A5F?style=plastic&logo=githubpages&logoColor=white" title="展示与演示页" alt="Gallery & demo site" /></a>
@@ -40,8 +42,6 @@
   <img src="https://img.shields.io/github/stars/caseclose/work-encourager-open?style=flat&label=stars" alt="stars" />
   <a href="https://caseclose.github.io/work-encourager-open/" title="在线体验"><img height="22" src="https://img.shields.io/badge/Live-Demo-D95A2B?style=plastic&logo=githubpages&logoColor=white" title="在线体验" alt="Live demo" /></a>
   <a href="https://github.com/caseclose/work-encourager-open/releases/latest" title="macOS 客户端下载"><img height="22" src="https://img.shields.io/badge/macOS-Release-1D1712?style=plastic&logo=apple&logoColor=white" title="macOS 客户端下载" alt="macOS release" /></a>
-- [**My Skill Hub**](https://github.com/caseclose/my-skill-hub) — 我个人制作的开源 Agent Skills 仓库，涵盖浏览器与 macOS 自动化、本地数据看板和 GPU 工具
-  <img src="https://img.shields.io/github/stars/caseclose/my-skill-hub?style=flat&label=stars" alt="stars" />
 - [**Cadence**](https://caseclose.github.io/cadence/) — 受操作系统 CPU 调度启发的多任务时间管理器：支持任务挂起与自适应退避轮询提醒
   <a href="https://caseclose.github.io/cadence/" title="项目主页"><img height="22" src="https://img.shields.io/badge/Project-Page-1F3A5F?style=plastic&logo=githubpages&logoColor=white" title="项目主页" alt="Project page" /></a>
 - [**Stock-assistant**](https://github.com/caseclose/stock-assistant) — 美股多周期看板与综合信号分析系统（FastAPI + Next.js + Alpaca）

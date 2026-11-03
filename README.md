@@ -33,6 +33,8 @@
   <a href="https://caseclose.github.io/cma-harness/" title="Project page"><img height="22" src="https://img.shields.io/badge/Project-Page-1F3A5F?style=plastic&logo=githubpages&logoColor=white" title="Project page" alt="Project page" /></a>
 - [**MLNLP-World/Top-AI-Conferences-Paper-with-Code**](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code) — contributor
   <img src="https://img.shields.io/github/stars/MLNLP-World/Top-AI-Conferences-Paper-with-Code?style=flat&label=stars" alt="stars" />
+- [**My Skill Hub**](https://github.com/caseclose/my-skill-hub) — A collection of open-source agent skills I created, covering browser and macOS automation, local data dashboards, and GPU utilities
+  <img src="https://img.shields.io/github/stars/caseclose/my-skill-hub?style=flat&label=stars" alt="stars" />
 - [**Kimi Work Pets**](https://caseclose.github.io/kimi-work-pets/) — Desktop pets for the Kimi Work app: one-click install of 14 Codex Pets community sprites (Dimo, Hiyuki, Hu Tao, Miyabi, Violet...), with hover interactions & gaze-following head tracking (macOS / Windows)
   <img src="https://img.shields.io/github/stars/caseclose/kimi-work-pets?style=flat&label=stars" alt="stars" />
   <a href="https://caseclose.github.io/kimi-work-pets/" title="Gallery & demo site"><img height="22" src="https://img.shields.io/badge/Project-Page-1F3A5F?style=plastic&logo=githubpages&logoColor=white" title="Gallery & demo site" alt="Gallery & demo site" /></a>
@@ -40,8 +42,6 @@
   <img src="https://img.shields.io/github/stars/caseclose/work-encourager-open?style=flat&label=stars" alt="stars" />
   <a href="https://caseclose.github.io/work-encourager-open/" title="Live demo"><img height="22" src="https://img.shields.io/badge/Live-Demo-D95A2B?style=plastic&logo=githubpages&logoColor=white" title="Live demo" alt="Live demo" /></a>
   <a href="https://github.com/caseclose/work-encourager-open/releases/latest" title="macOS release"><img height="22" src="https://img.shields.io/badge/macOS-Release-1D1712?style=plastic&logo=apple&logoColor=white" title="macOS release" alt="macOS release" /></a>
-- [**My Skill Hub**](https://github.com/caseclose/my-skill-hub) — A collection of open-source agent skills I created, covering browser and macOS automation, local data dashboards, and GPU utilities
-  <img src="https://img.shields.io/github/stars/caseclose/my-skill-hub?style=flat&label=stars" alt="stars" />
 - [**Cadence**](https://caseclose.github.io/cadence/) — CPU-scheduling-inspired task manager for multi-task life: suspend tasks + adaptive backoff polling reminders
   <a href="https://caseclose.github.io/cadence/" title="Project page"><img height="22" src="https://img.shields.io/badge/Project-Page-1F3A5F?style=plastic&logo=githubpages&logoColor=white" title="Project page" alt="Project page" /></a>
 - [**Stock-assistant**](https://github.com/caseclose/stock-assistant) — US equities reference dashboard: watchlist, multi-timeframe charts, composite signals (FastAPI + Next.js + Alpaca)
