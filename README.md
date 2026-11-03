@@ -11,13 +11,16 @@
 </p>
 
 <p align="center">
-  <a href="./README_zh.md">简体中文</a> &nbsp; · &nbsp;
+  <a href="./README_zh.md" title="切换到简体中文"><img height="20" src="./assets/actions/language-en.svg" alt="简体中文" /></a>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=caseclose.caseclose&amp;left_text=Profile%20Views&amp;right_color=%23317f73" alt="Profile views" />
 </p>
 
-<p align="center"><a href="#about-me">About</a> &nbsp; / &nbsp; <a href="#open-source--projects">Open Source & Projects</a> &nbsp; / &nbsp; <a href="#tech--tools">Toolkit</a> &nbsp; / &nbsp; <a href="#github-activity">Activity</a></p>
+<p align="center"><a href="#about-me" title="About Me"><img height="24" src="./assets/navigation/about-en.svg" alt="About Me" /></a>
+  <a href="#open-source--projects" title="Open Source &amp; Projects"><img height="24" src="./assets/navigation/projects-en.svg" alt="Open Source &amp; Projects" /></a>
+  <a href="#tech--tools" title="Tech &amp; Tools"><img height="24" src="./assets/navigation/toolkit-en.svg" alt="Tech &amp; Tools" /></a>
+  <a href="#github-activity" title="GitHub Activity"><img height="24" src="./assets/navigation/activity-en.svg" alt="GitHub Activity" /></a></p>
 
-## About Me
+## <img width="22" height="22" src="./assets/navigation/about.svg" alt="" /> About Me
 
 <p><b>WeChat Xiaowei / 微信小微</b><br />Agent · WeLM-Image-V1 (image generation &amp; editing)</p>
 <p>Multimodal agents · GUI agents · VLMs<br />Reinforcement learning · Code-driven synthesis · AIGC</p>
@@ -26,7 +29,7 @@
 <p><img src="./assets/pku.png" height="24" alt="PKU" /> &nbsp; <b>Peking University</b> · M.S. in Computer Science and Technology<br /><sub>School of Electronic and Computer Engineering · 2024.09 – 2027.06</sub></p>
 <p><img src="./assets/hit.png" height="24" alt="HIT" /> &nbsp; <b>Harbin Institute of Technology</b> · B.S. in Computer Science (Information Security)<br /><sub>Honors School · 2020.09 – 2024.06 · <b>Rank 2 / 82</b></sub></p>
 
-## Open Source & Projects
+## <img width="22" height="22" src="./assets/navigation/projects.svg" alt="" /> Open Source & Projects
 
 <table width="100%">
 <tr><td>
@@ -34,7 +37,7 @@
 <h3><a href="https://caseclose.github.io/cma-harness/">CMA-Harness</a></h3>
 <p><b>Cognitive-structured Multimodal Agent Harness.</b> A memory-centric agent for long-horizon multimodal understanding, generation, and editing, with M2CA-Bench. Externalizes visual history into episodic memory with selective retrieval.</p>
 
-<p><a href="https://github.com/caseclose/cma-harness/stargazers"><img src="https://img.shields.io/github/stars/caseclose/cma-harness?style=flat-square&amp;label=stars&amp;color=377d76" alt="cma-harness stars" /></a> <a href="https://arxiv.org/abs/2607.08497">Paper ↗</a> · <a href="https://caseclose.github.io/cma-harness/">Project page ↗</a></p>
+<p><a href="https://github.com/caseclose/cma-harness/stargazers"><img src="https://img.shields.io/github/stars/caseclose/cma-harness?style=flat-square&amp;label=stars&amp;color=377d76" alt="cma-harness stars" /></a> <a href="https://arxiv.org/abs/2607.08497" title="Paper"><img height="20" src="./assets/actions/paper-en.svg" alt="Paper" /></a> <a href="https://caseclose.github.io/cma-harness/" title="Project page"><img height="20" src="./assets/actions/project-en.svg" alt="Project page" /></a></p>
 </td></tr>
 <tr><td>
 <p><sub>02 / OPEN-SOURCE CONTRIBUTION</sub></p>
@@ -63,14 +66,14 @@
 <h3><a href="https://caseclose.github.io/kimi-work-pets/">Kimi Work Pets</a></h3>
 <p>One-click installation of 14 Codex Pets community sprites for Kimi Work. Hover interactions and gaze-following head tracking on macOS &amp; Windows.</p>
 
-<p><a href="https://github.com/caseclose/kimi-work-pets/stargazers"><img src="https://img.shields.io/github/stars/caseclose/kimi-work-pets?style=flat-square&amp;label=stars&amp;color=377d76" alt="kimi-work-pets stars" /></a> <a href="https://caseclose.github.io/kimi-work-pets/">Gallery &amp; demo ↗</a></p>
+<p><a href="https://github.com/caseclose/kimi-work-pets/stargazers"><img src="https://img.shields.io/github/stars/caseclose/kimi-work-pets?style=flat-square&amp;label=stars&amp;color=377d76" alt="kimi-work-pets stars" /></a> <a href="https://caseclose.github.io/kimi-work-pets/" title="Gallery &amp; demo"><img height="20" src="./assets/actions/gallery-en.svg" alt="Gallery &amp; demo" /></a></p>
 </td>
 <td width="50%" valign="top">
 <p><sub>05 / EVERYDAY TOOLS</sub></p>
 <h3><a href="https://github.com/caseclose/work-encourager-open">Work Encourager</a></h3>
 <p>A real-time earnings tracker that turns working minutes into visible progress and motivating goals. Web app and native macOS menu bar utility.</p>
 
-<p><a href="https://github.com/caseclose/work-encourager-open/stargazers"><img src="https://img.shields.io/github/stars/caseclose/work-encourager-open?style=flat-square&amp;label=stars&amp;color=377d76" alt="work-encourager-open stars" /></a> <a href="https://caseclose.github.io/work-encourager-open/">Live demo ↗</a> · <a href="https://github.com/caseclose/work-encourager-open/releases/latest">macOS ↗</a></p>
+<p><a href="https://github.com/caseclose/work-encourager-open/stargazers"><img src="https://img.shields.io/github/stars/caseclose/work-encourager-open?style=flat-square&amp;label=stars&amp;color=377d76" alt="work-encourager-open stars" /></a> <a href="https://caseclose.github.io/work-encourager-open/" title="Live demo"><img height="20" src="./assets/actions/demo-en.svg" alt="Live demo" /></a> <a href="https://github.com/caseclose/work-encourager-open/releases/latest" title="macOS"><img height="20" src="./assets/actions/download-en.svg" alt="macOS" /></a></p>
 </td>
 </tr>
 <tr>
@@ -79,14 +82,14 @@
 <h3><a href="https://caseclose.github.io/cadence/">Cadence</a></h3>
 <p>A CPU-scheduling-inspired task manager for multi-task life, with task suspension and adaptive backoff polling reminders.</p>
 
-<p> <a href="https://caseclose.github.io/cadence/">Project page ↗</a></p>
+<p> <a href="https://caseclose.github.io/cadence/" title="Project page"><img height="20" src="./assets/actions/project-en.svg" alt="Project page" /></a></p>
 </td>
 <td width="50%" valign="top">
 <p><sub>07 / MARKET DASHBOARD</sub></p>
 <h3><a href="https://github.com/caseclose/stock-assistant">Stock-assistant</a></h3>
 <p>US equities reference dashboard: watchlists, multi-timeframe charts, and composite signals.<br /><sub>FastAPI · Next.js · Alpaca</sub></p>
 
-<p> <a href="https://github.com/caseclose/stock-assistant">Repository ↗</a></p>
+<p> <a href="https://github.com/caseclose/stock-assistant" title="Repository"><img height="20" src="./assets/actions/repository-en.svg" alt="Repository" /></a></p>
 </td>
 </tr>
 <tr>
@@ -95,28 +98,50 @@
 <h3><a href="https://github.com/caseclose/YouTubeMusic-MacOS">YouTubeMusic-MacOS</a></h3>
 <p>A native YouTube Music desktop client with media keys, menu bar tray, and Control Center integration.</p>
 
-<p> <a href="https://github.com/caseclose/YouTubeMusic-MacOS">Repository ↗</a></p>
+<p> <a href="https://github.com/caseclose/YouTubeMusic-MacOS" title="Repository"><img height="20" src="./assets/actions/repository-en.svg" alt="Repository" /></a></p>
 </td>
 <td width="50%" valign="top">
 <p><sub>09 / WRITING TOOLS</sub></p>
 <h3><a href="https://github.com/caseclose/mymd-editor">Mymd-editor</a></h3>
 <p>A Typora-style Markdown editor for Windows.<br /><sub>Electron · Milkdown</sub></p>
 
-<p> <a href="https://github.com/caseclose/mymd-editor">Repository ↗</a></p>
+<p> <a href="https://github.com/caseclose/mymd-editor" title="Repository"><img height="20" src="./assets/actions/repository-en.svg" alt="Repository" /></a></p>
 </td>
 </tr>
 </table>
 
-## Tech & Tools
+## <img width="22" height="22" src="./assets/navigation/toolkit.svg" alt="" /> Tech & Tools
 
-<p><b>Models &amp; training</b><br />
-<a href="https://www.python.org">Python</a> &nbsp; · &nbsp; <a href="https://pytorch.org">PyTorch</a> &nbsp; · &nbsp; <a href="https://github.com/modelscope/ms-swift">ms-swift</a> &nbsp; · &nbsp; <a href="https://github.com/vllm-project/vllm">vLLM</a> &nbsp; · &nbsp; <a href="https://github.com/volcengine/verl">verl</a></p>
-<p><b>Code &amp; interfaces</b><br />
-<a href="https://en.cppreference.com/w/c">C</a> &nbsp; · &nbsp; <a href="https://isocpp.org">C++</a> &nbsp; · &nbsp; <a href="https://www.typescriptlang.org">TypeScript</a> &nbsp; · &nbsp; <a href="https://react.dev">React</a> &nbsp; · &nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a> &nbsp; · &nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a> &nbsp; · &nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/SVG">SVG</a> &nbsp; · &nbsp; <a href="https://git-scm.com">Git</a></p>
-<p><b>AI coding</b><br />
-<a href="https://www.anthropic.com/claude-code">Claude Code</a> &nbsp; · &nbsp; <a href="https://cursor.com">Cursor</a> &nbsp; · &nbsp; <a href="https://opencode.ai">OpenCode</a> &nbsp; · &nbsp; <a href="https://www.kimi.com/code">Kimi Code</a> &nbsp; · &nbsp; <a href="https://openai.com/codex">Codex</a> &nbsp; · &nbsp; <a href="https://zcode.z.ai">ZCode</a></p>
+<p><b>Models &amp; training</b></p>
+<p>
+  <a href="https://www.python.org" title="Python"><img width="72" src="./assets/toolkit/python.svg" alt="Python" /></a>
+  <a href="https://pytorch.org" title="PyTorch"><img width="72" src="./assets/toolkit/pytorch.svg" alt="PyTorch" /></a>
+  <a href="https://github.com/modelscope/ms-swift" title="ms-swift"><img width="72" src="./assets/toolkit/modelscope.svg" alt="ms-swift" /></a>
+  <a href="https://github.com/vllm-project/vllm" title="vLLM"><img width="72" src="./assets/toolkit/vllm.svg" alt="vLLM" /></a>
+  <a href="https://github.com/volcengine/verl" title="verl"><img width="72" src="./assets/toolkit/verl.svg" alt="verl" /></a>
+</p>
+<p><b>Code &amp; interfaces</b></p>
+<p>
+  <a href="https://en.cppreference.com/w/c" title="C"><img width="72" src="./assets/toolkit/c.svg" alt="C" /></a>
+  <a href="https://isocpp.org" title="C++"><img width="72" src="./assets/toolkit/cplusplus.svg" alt="C++" /></a>
+  <a href="https://www.typescriptlang.org" title="TypeScript"><img width="72" src="./assets/toolkit/typescript.svg" alt="TypeScript" /></a>
+  <a href="https://react.dev" title="React"><img width="72" src="./assets/toolkit/react.svg" alt="React" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML"><img width="72" src="./assets/toolkit/html5.svg" alt="HTML" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS"><img width="72" src="./assets/toolkit/css.svg" alt="CSS" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/SVG" title="SVG"><img width="72" src="./assets/toolkit/svg.svg" alt="SVG" /></a>
+  <a href="https://git-scm.com" title="Git"><img width="72" src="./assets/toolkit/git.svg" alt="Git" /></a>
+</p>
+<p><b>AI coding</b></p>
+<p>
+  <a href="https://www.anthropic.com/claude-code" title="Claude Code"><img width="72" src="./assets/toolkit/claude.svg" alt="Claude Code" /></a>
+  <a href="https://cursor.com" title="Cursor"><img width="72" src="./assets/toolkit/cursor.svg" alt="Cursor" /></a>
+  <a href="https://opencode.ai" title="OpenCode"><img width="72" src="./assets/toolkit/opencode.svg" alt="OpenCode" /></a>
+  <a href="https://www.kimi.com/code" title="Kimi Code"><img width="72" src="./assets/toolkit/kimi.svg" alt="Kimi Code" /></a>
+  <a href="https://openai.com/codex" title="Codex"><img width="72" src="./assets/toolkit/codex.svg" alt="Codex" /></a>
+  <a href="https://zcode.z.ai" title="ZCode"><img width="72" src="./assets/toolkit/zcode.svg" alt="ZCode" /></a>
+</p>
 
-## GitHub Activity
+## <img width="22" height="22" src="./assets/navigation/activity.svg" alt="" /> GitHub Activity
 
 <p align="center">
   <img width="100%" src="https://raw.githubusercontent.com/caseclose/caseclose/output/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="GitHub contribution and activity summary" />

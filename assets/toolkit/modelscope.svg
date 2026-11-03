@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="76" viewBox="0 0 80 76" role="img" aria-labelledby="title">
+  <title id="title">ms-swift</title>
+  <rect x="17.5" y="1.5" width="45" height="45" rx="12" fill="#f3f6f7" stroke="#d4dfe3"/>
+  <g transform="translate(26 10) scale(1.1666667)" fill="#624AFF"><path d="M2.667 5.333V8H0v5.333h2.667v-2.666H.5V8.5h2.166v2.166h2.666V8H8V5.333Zm0 8v5.334H8V16H5.333v-2.667Zm13.333-8V8h2.667v2.667h2.666V8.5H23.5v2.166h-2.166v2.666H24V8h-2.667V5.333Zm5.333 8h-2.666V16H16v2.667h5.333zM8 10.667v2.666h2.667v-2.666zm2.667 2.666V16h2.666v-2.667zm2.666 0H16v-2.666h-2.667z"/></g>
+  <text x="40" y="66" text-anchor="middle" fill="#71818b" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="11.5" font-weight="600">ms-swift</text>
+</svg>
