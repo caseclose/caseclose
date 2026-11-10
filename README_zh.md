@@ -25,7 +25,7 @@
 - 🔭 当前研究与工作方向：**Agent（@微信小微）** · **WeLM-Image-V1（@微信小微，生图/编辑模型）** · **GUI Agent** · **多模态理解（VLM）** · **代码驱动生成（Code-driven Generation）** · **AIGC**
 - 🌱 正在深入探索：多模态智能体系统 / Harness、统一理解生成基座模型与代码渲染合成（HTML / CSS / SVG / LaTeX） · 📈 美股量化与投资
 
-- 🛠️ 参与 [OpenCode](https://github.com/anomalyco/opencode) 开源贡献，关注插件运行时、开发工具集成与交互一致性，通过可复现的问题分析和回归测试推进修复。
+- 🛠️ 积极参与开源社区，是开源 Agent Harness [OpenCode](https://github.com/anomalyco/opencode) 的 **Contributor**，关注插件运行时、开发工具集成与交互一致性，通过问题分析与回归测试推进修复。
 
 <h3>教育背景</h3>
 <p><img src="./assets/pku.png" height="24" alt="PKU" /> &nbsp; <b>北京大学</b> · 计算机科学与技术硕士研究生<br /><sub>信息工程学院 · 2024.09 – 2027.06</sub></p>
