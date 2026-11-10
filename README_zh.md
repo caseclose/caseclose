@@ -25,6 +25,8 @@
 - 🔭 当前研究与工作方向：**Agent（@微信小微）** · **WeLM-Image-V1（@微信小微，生图/编辑模型）** · **GUI Agent** · **多模态理解（VLM）** · **代码驱动生成（Code-driven Generation）** · **AIGC**
 - 🌱 正在深入探索：多模态智能体系统 / Harness、统一理解生成基座模型与代码渲染合成（HTML / CSS / SVG / LaTeX） · 📈 美股量化与投资
 
+- 🛠️ 参与 [OpenCode](https://github.com/anomalyco/opencode) 开源贡献，关注插件运行时、开发工具集成与交互一致性，通过可复现的问题分析和回归测试推进修复。
+
 <h3>教育背景</h3>
 <p><img src="./assets/pku.png" height="24" alt="PKU" /> &nbsp; <b>北京大学</b> · 计算机科学与技术硕士研究生<br /><sub>信息工程学院 · 2024.09 – 2027.06</sub></p>
 <p><img src="./assets/hit.png" height="24" alt="HIT" /> &nbsp; <b>哈尔滨工业大学</b> · 信息安全（计算机类）学士<br /><sub>英才荣誉学院 · 2020.09 – 2024.06 · <b>专业排名 2 / 82</b></sub></p>
@@ -41,6 +43,13 @@
 </td></tr>
 <tr><td>
 <p><sub>02 / 开源贡献</sub></p>
+<h3><a href="https://github.com/anomalyco/opencode">OpenCode</a></h3>
+<p>开源贡献者，已有界面修复与开发文档改进合入上游。</p>
+<ul>
+<li><a href="https://github.com/anomalyco/opencode/pull/62079"><b>#62079 · 已合入</b></a> — 修复 Go / Zen 下载按钮的图标与文字布局。</li>
+<li><a href="https://github.com/anomalyco/opencode/pull/62098"><b>#62098 · 已合入</b></a> — 修正 Bun 贡献环境说明，使其与仓库版本配置及 CI 一致。</li>
+</ul>
+<p><a href="https://github.com/anomalyco/opencode/pulls?q=is%3Apr+author%3Acaseclose">查看全部 OpenCode PR</a></p>
 <h3><a href="https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code">Top AI Papers with Code</a></h3>
 <p><b>MLNLP-World / Top-AI-Conferences-Paper-with-Code</b> 贡献者，参与顶会论文与代码汇总。</p>
 
