@@ -47,14 +47,28 @@
 <tr>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/anomalyco/opencode">OpenCode</a></h3>
-<p>贡献涉及插件 API 的 <code>AbortSignal</code> 取消传播、基于 Composer 配置的 Pint 路径解析，以及问答策略与键盘导航的一致性，并通过回归测试验证。</p>
-<p><a href="https://github.com/anomalyco/opencode/stargazers"><img src="https://img.shields.io/github/stars/anomalyco/opencode?style=flat-square&amp;label=stars&amp;color=377d76" alt="OpenCode stars" /></a> <a href="https://github.com/anomalyco/opencode/pulls?q=is%3Apr+author%3Acaseclose">查看全部 PR</a></p>
+<p><sub>开源 Agent Harness · Contributor</sub></p>
+<ul>
+<li><b>插件运行时</b> — <code>AbortSignal</code> 取消信号传播</li>
+<li><b>工具集成</b> — 基于 Composer 的 Pint 路径解析</li>
+<li><b>交互一致性</b> — 问答策略与键盘导航</li>
+</ul>
+<p><sub>可复现的问题分析 · 回归测试</sub></p>
+<p><b>已合入：</b> <a href="https://github.com/anomalyco/opencode/pull/62079">#62079</a> · <a href="https://github.com/anomalyco/opencode/pull/62098">#62098</a></p>
 </td>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code">Top AI Papers with Code</a></h3>
-<p><b>MLNLP-World / Top-AI-Conferences-Paper-with-Code</b> 贡献者，参与顶会论文与代码汇总。</p>
-
-<p><a href="https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/stargazers"><img src="https://img.shields.io/github/stars/MLNLP-World/Top-AI-Conferences-Paper-with-Code?style=flat-square&amp;label=stars&amp;color=377d76" alt="Top-AI-Conferences-Paper-with-Code stars" /></a></p>
+<p><sub>MLNLP-WORLD · 开源贡献者</sub></p>
+<p>参与顶会论文与代码汇总，为研究者提供论文阅读与实现参考。</p>
+<p><sub>研究资源 · 顶会论文 · 开源代码</sub></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="middle">
+<a href="https://github.com/anomalyco/opencode/stargazers"><img src="https://img.shields.io/github/stars/anomalyco/opencode?style=flat-square&amp;label=stars&amp;color=377d76" alt="OpenCode stars" /></a> <a href="https://github.com/anomalyco/opencode/pulls?q=is%3Apr+author%3Acaseclose"><img src="https://img.shields.io/badge/PRs-284b55?style=flat-square&amp;logo=github&amp;logoColor=white" alt="查看全部 OpenCode PR" /></a>
+</td>
+<td width="50%" valign="middle">
+<a href="https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/stargazers"><img src="https://img.shields.io/github/stars/MLNLP-World/Top-AI-Conferences-Paper-with-Code?style=flat-square&amp;label=stars&amp;color=377d76" alt="Top AI Papers with Code stars" /></a> <a href="https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code"><img src="https://img.shields.io/badge/Repository-284b55?style=flat-square&amp;logo=github&amp;logoColor=white" alt="查看仓库" /></a>
 </td>
 </tr>
 <tr><td colspan="2">
