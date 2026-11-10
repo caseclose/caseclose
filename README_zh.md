@@ -37,9 +37,9 @@
 <tr><td colspan="2">
 <p><sub>01 / 多模态智能体研究</sub></p>
 <h3><a href="https://caseclose.github.io/cma-harness/">CMA-Harness</a></h3>
+<p><a href="https://github.com/caseclose/cma-harness/stargazers"><img src="https://img.shields.io/github/stars/caseclose/cma-harness?style=flat-square&amp;label=stars&amp;color=377d76" alt="cma-harness stars" /></a> <a href="https://arxiv.org/abs/2607.08497" title="论文"><img height="20" src="./assets/actions/paper-zh.svg" alt="论文" /></a> <a href="https://caseclose.github.io/cma-harness/" title="项目主页"><img height="20" src="./assets/actions/project-zh.svg" alt="项目主页" /></a></p>
 <p><b>认知结构化多模态智能体框架。</b>面向长程多模态理解、生成与编辑，将视觉历史外置为情景记忆并进行选择性检索，附 M2CA-Bench 基准。</p>
 
-<p><a href="https://github.com/caseclose/cma-harness/stargazers"><img src="https://img.shields.io/github/stars/caseclose/cma-harness?style=flat-square&amp;label=stars&amp;color=377d76" alt="cma-harness stars" /></a> <a href="https://arxiv.org/abs/2607.08497" title="论文"><img height="20" src="./assets/actions/paper-zh.svg" alt="论文" /></a> <a href="https://caseclose.github.io/cma-harness/" title="项目主页"><img height="20" src="./assets/actions/project-zh.svg" alt="项目主页" /></a></p>
 </td></tr>
 <tr><td colspan="2">
 <p><sub>02 / 开源贡献</sub></p>
@@ -47,6 +47,8 @@
 <tr>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/anomalyco/opencode">OpenCode</a></h3>
+<p><a href="https://github.com/anomalyco/opencode/stargazers"><img src="https://img.shields.io/github/stars/anomalyco/opencode?style=flat-square&amp;label=stars&amp;color=377d76" alt="OpenCode stars" /></a> <a href="https://github.com/anomalyco/opencode/pulls?q=is%3Apr+author%3Acaseclose"><img src="https://img.shields.io/badge/PRs-284b55?style=flat-square&amp;logo=github&amp;logoColor=white" alt="查看全部 OpenCode PR" /></a></p>
+
 <p><sub>开源 Agent Harness · Contributor</sub></p>
 <ul>
 <li><b>插件运行时</b> — <code>AbortSignal</code> 取消信号传播</li>
@@ -58,29 +60,25 @@
 </td>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code">Top AI Papers with Code</a></h3>
+<p><a href="https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/stargazers"><img src="https://img.shields.io/github/stars/MLNLP-World/Top-AI-Conferences-Paper-with-Code?style=flat-square&amp;label=stars&amp;color=377d76" alt="Top AI Papers with Code stars" /></a> <a href="https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code"><img src="https://img.shields.io/badge/Repository-284b55?style=flat-square&amp;logo=github&amp;logoColor=white" alt="查看仓库" /></a></p>
+
 <p><sub>MLNLP-WORLD · 开源贡献者</sub></p>
 <p>参与顶会论文与代码汇总，为研究者提供论文阅读与实现参考。</p>
 <p><sub>研究资源 · 顶会论文 · 开源代码</sub></p>
 </td>
 </tr>
-<tr>
-<td width="50%" valign="middle">
-<a href="https://github.com/anomalyco/opencode/stargazers"><img src="https://img.shields.io/github/stars/anomalyco/opencode?style=flat-square&amp;label=stars&amp;color=377d76" alt="OpenCode stars" /></a> <a href="https://github.com/anomalyco/opencode/pulls?q=is%3Apr+author%3Acaseclose"><img src="https://img.shields.io/badge/PRs-284b55?style=flat-square&amp;logo=github&amp;logoColor=white" alt="查看全部 OpenCode PR" /></a>
-</td>
-<td width="50%" valign="middle">
-<a href="https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/stargazers"><img src="https://img.shields.io/github/stars/MLNLP-World/Top-AI-Conferences-Paper-with-Code?style=flat-square&amp;label=stars&amp;color=377d76" alt="Top AI Papers with Code stars" /></a> <a href="https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code"><img src="https://img.shields.io/badge/Repository-284b55?style=flat-square&amp;logo=github&amp;logoColor=white" alt="查看仓库" /></a>
-</td>
-</tr>
+
 <tr><td colspan="2">
 <p><sub>03 / AGENT 技能</sub></p>
 <h3><a href="https://github.com/caseclose/my-skill-hub">My Skill Hub</a></h3>
+<p><a href="https://github.com/caseclose/my-skill-hub/stargazers"><img src="https://img.shields.io/github/stars/caseclose/my-skill-hub?style=flat-square&amp;label=stars&amp;color=377d76" alt="my-skill-hub stars" /></a></p>
 <p>我个人制作的开源 Agent Skills 仓库。</p>
 <ul>
 <li><a href="https://github.com/caseclose/computer-use-skill"><b>Computer Use Skill</b></a> — 浏览器与 macOS 原生应用自动化</li>
 <li><a href="https://github.com/caseclose/html-viewer-skill"><b>HTML Viewer</b></a> — 本地数据网页与看板</li>
 <li><a href="https://github.com/caseclose/gpu_utl_occupy_skill"><b>GPU Occupy</b></a> — GPU 可控负载与利用率调节</li>
 </ul>
-<p><a href="https://github.com/caseclose/my-skill-hub/stargazers"><img src="https://img.shields.io/github/stars/caseclose/my-skill-hub?style=flat-square&amp;label=stars&amp;color=377d76" alt="my-skill-hub stars" /></a></p>
+
 </td></tr>
 </table>
 
@@ -89,48 +87,48 @@
 <td width="50%" valign="top">
 <p><sub>04 / 桌面伙伴</sub></p>
 <h3><a href="https://caseclose.github.io/kimi-work-pets/">Kimi Work Pets</a></h3>
+<p><a href="https://github.com/caseclose/kimi-work-pets/stargazers"><img src="https://img.shields.io/github/stars/caseclose/kimi-work-pets?style=flat-square&amp;label=stars&amp;color=377d76" alt="kimi-work-pets stars" /></a> <a href="https://caseclose.github.io/kimi-work-pets/" title="展示与演示"><img height="20" src="./assets/actions/gallery-zh.svg" alt="展示与演示" /></a></p>
 <p>为 Kimi Work 一键安装 14 款 Codex Pets 社区精灵，支持悬停交互与视线跟随转头，适配 macOS / Windows。</p>
 
-<p><a href="https://github.com/caseclose/kimi-work-pets/stargazers"><img src="https://img.shields.io/github/stars/caseclose/kimi-work-pets?style=flat-square&amp;label=stars&amp;color=377d76" alt="kimi-work-pets stars" /></a> <a href="https://caseclose.github.io/kimi-work-pets/" title="展示与演示"><img height="20" src="./assets/actions/gallery-zh.svg" alt="展示与演示" /></a></p>
 </td>
 <td width="50%" valign="top">
 <p><sub>05 / 日常工具</sub></p>
 <h3><a href="https://github.com/caseclose/work-encourager-open">Work Encourager</a></h3>
+<p><a href="https://github.com/caseclose/work-encourager-open/stargazers"><img src="https://img.shields.io/github/stars/caseclose/work-encourager-open?style=flat-square&amp;label=stars&amp;color=377d76" alt="work-encourager-open stars" /></a> <a href="https://caseclose.github.io/work-encourager-open/" title="在线体验"><img height="20" src="./assets/actions/demo-zh.svg" alt="在线体验" /></a> <a href="https://github.com/caseclose/work-encourager-open/releases/latest" title="macOS"><img height="20" src="./assets/actions/download-zh.svg" alt="macOS" /></a></p>
 <p>把每一分钟的工作转化为可视化收入进度与目标反馈，提供交互式网页版和 macOS 原生菜单栏应用。</p>
 
-<p><a href="https://github.com/caseclose/work-encourager-open/stargazers"><img src="https://img.shields.io/github/stars/caseclose/work-encourager-open?style=flat-square&amp;label=stars&amp;color=377d76" alt="work-encourager-open stars" /></a> <a href="https://caseclose.github.io/work-encourager-open/" title="在线体验"><img height="20" src="./assets/actions/demo-zh.svg" alt="在线体验" /></a> <a href="https://github.com/caseclose/work-encourager-open/releases/latest" title="macOS"><img height="20" src="./assets/actions/download-zh.svg" alt="macOS" /></a></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <p><sub>06 / 任务管理</sub></p>
 <h3><a href="https://caseclose.github.io/cadence/">Cadence</a></h3>
+<p> <a href="https://caseclose.github.io/cadence/" title="项目主页"><img height="20" src="./assets/actions/project-zh.svg" alt="项目主页" /></a></p>
 <p>受操作系统 CPU 调度启发的多任务时间管理器，支持任务挂起与自适应退避轮询提醒。</p>
 
-<p> <a href="https://caseclose.github.io/cadence/" title="项目主页"><img height="20" src="./assets/actions/project-zh.svg" alt="项目主页" /></a></p>
 </td>
 <td width="50%" valign="top">
 <p><sub>07 / 行情看板</sub></p>
 <h3><a href="https://github.com/caseclose/stock-assistant">Stock-assistant</a></h3>
+<p> <a href="https://github.com/caseclose/stock-assistant" title="仓库"><img height="20" src="./assets/actions/repository-zh.svg" alt="仓库" /></a></p>
 <p>美股多周期看板与综合信号分析系统，包含自选股、多周期图表与综合信号。<br /><sub>FastAPI · Next.js · Alpaca</sub></p>
 
-<p> <a href="https://github.com/caseclose/stock-assistant" title="仓库"><img height="20" src="./assets/actions/repository-zh.svg" alt="仓库" /></a></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <p><sub>08 / 原生 MACOS</sub></p>
 <h3><a href="https://github.com/caseclose/YouTubeMusic-MacOS">YouTubeMusic-MacOS</a></h3>
+<p> <a href="https://github.com/caseclose/YouTubeMusic-MacOS" title="仓库"><img height="20" src="./assets/actions/repository-zh.svg" alt="仓库" /></a></p>
 <p>原生 macOS YouTube Music 桌面客户端，支持媒体键、状态栏托盘与控制中心集成。</p>
 
-<p> <a href="https://github.com/caseclose/YouTubeMusic-MacOS" title="仓库"><img height="20" src="./assets/actions/repository-zh.svg" alt="仓库" /></a></p>
 </td>
 <td width="50%" valign="top">
 <p><sub>09 / 写作工具</sub></p>
 <h3><a href="https://github.com/caseclose/mymd-editor">Mymd-editor</a></h3>
+<p> <a href="https://github.com/caseclose/mymd-editor" title="仓库"><img height="20" src="./assets/actions/repository-zh.svg" alt="仓库" /></a></p>
 <p>Typora 风格的 Windows Markdown 编辑器。<br /><sub>Electron · Milkdown</sub></p>
 
-<p> <a href="https://github.com/caseclose/mymd-editor" title="仓库"><img height="20" src="./assets/actions/repository-zh.svg" alt="仓库" /></a></p>
 </td>
 </tr>
 </table>
