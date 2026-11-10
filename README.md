@@ -25,7 +25,7 @@
 - 🔭 I'm currently working on: **Agent(@WeChat Xiaowei, 小微)** · **WeLM-Image-V1(@WeChat Xiaowei, 微信小微生图/编辑模型)** · **GUI Agent** · **Multimodal Understanding (VLM)** · **Code-driven Generation** · **AIGC**
 - 🌱 I'm currently learning: Agentic systems / Harness & unified multimodal models & code generation (HTML / CSS / SVG / LaTeX) · 📈 stock investing
 
-- 🛠️ I contribute to [OpenCode](https://github.com/anomalyco/opencode), focusing on plugin runtimes, developer-tool integration, and consistent interactions through reproducible bug reports and regression tests.
+- 🛠️ I actively contribute to the open-source community as a **Contributor** to [OpenCode](https://github.com/anomalyco/opencode), an open-source agent harness, focusing on plugin runtimes, developer-tool integration, and interaction consistency through bug analysis and regression tests.
 
 <h3>Education</h3>
 <p><img src="./assets/pku.png" height="24" alt="PKU" /> &nbsp; <b>Peking University</b> · M.S. in Computer Science and Technology<br /><sub>School of Electronic and Computer Engineering · 2024.09 – 2027.06</sub></p>
