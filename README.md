@@ -34,28 +34,31 @@
 ## <img width="28" height="22" src="./assets/navigation/projects.svg" alt="" />Open Source & Projects
 
 <table width="100%">
-<tr><td>
+<tr><td colspan="2">
 <p><sub>01 / MULTIMODAL AGENT RESEARCH</sub></p>
 <h3><a href="https://caseclose.github.io/cma-harness/">CMA-Harness</a></h3>
 <p><b>Cognitive-structured Multimodal Agent Harness.</b> A memory-centric agent for long-horizon multimodal understanding, generation, and editing, with M2CA-Bench. Externalizes visual history into episodic memory with selective retrieval.</p>
 
 <p><a href="https://github.com/caseclose/cma-harness/stargazers"><img src="https://img.shields.io/github/stars/caseclose/cma-harness?style=flat-square&amp;label=stars&amp;color=377d76" alt="cma-harness stars" /></a> <a href="https://arxiv.org/abs/2607.08497" title="Paper"><img height="20" src="./assets/actions/paper-en.svg" alt="Paper" /></a> <a href="https://caseclose.github.io/cma-harness/" title="Project page"><img height="20" src="./assets/actions/project-en.svg" alt="Project page" /></a></p>
 </td></tr>
-<tr><td>
+<tr><td colspan="2">
 <p><sub>02 / OPEN-SOURCE CONTRIBUTION</sub></p>
+</td></tr>
+<tr>
+<td width="50%" valign="top">
 <h3><a href="https://github.com/anomalyco/opencode">OpenCode</a></h3>
-<p>Contributor with UI fixes and developer documentation improvements merged upstream.</p>
-<ul>
-<li><a href="https://github.com/anomalyco/opencode/pull/62079"><b>#62079 · Merged</b></a> — Fixed icon and text alignment in Go / Zen download buttons.</li>
-<li><a href="https://github.com/anomalyco/opencode/pull/62098"><b>#62098 · Merged</b></a> — Aligned contributor Bun setup instructions with the repository version pin and CI.</li>
-</ul>
-<p><a href="https://github.com/anomalyco/opencode/pulls?q=is%3Apr+author%3Acaseclose">View all OpenCode PRs</a></p>
+<p>Bug fixes and regression tests for developer tools, with UI and documentation improvements merged upstream.</p>
+<p><b>Merged:</b> <a href="https://github.com/anomalyco/opencode/pull/62079">Download-button layout #62079</a> · <a href="https://github.com/anomalyco/opencode/pull/62098">Bun setup docs #62098</a></p>
+<p><a href="https://github.com/anomalyco/opencode/pulls?q=is%3Apr+author%3Acaseclose">View all PRs</a></p>
+</td>
+<td width="50%" valign="top">
 <h3><a href="https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code">Top AI Papers with Code</a></h3>
 <p>Contributor to <b>MLNLP-World / Top-AI-Conferences-Paper-with-Code</b>, a collection of papers and code from leading AI conferences.</p>
 
 <p><a href="https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/stargazers"><img src="https://img.shields.io/github/stars/MLNLP-World/Top-AI-Conferences-Paper-with-Code?style=flat-square&amp;label=stars&amp;color=377d76" alt="Top-AI-Conferences-Paper-with-Code stars" /></a></p>
-</td></tr>
-<tr><td>
+</td>
+</tr>
+<tr><td colspan="2">
 <p><sub>03 / AGENT SKILLS</sub></p>
 <h3><a href="https://github.com/caseclose/my-skill-hub">My Skill Hub</a></h3>
 <p>A collection of open-source agent skills I created.</p>
