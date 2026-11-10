@@ -48,7 +48,6 @@
 <td width="50%" valign="top">
 <h3><a href="https://github.com/anomalyco/opencode">OpenCode</a></h3>
 <p>贡献涉及插件 API 的 <code>AbortSignal</code> 取消传播、基于 Composer 配置的 Pint 路径解析，以及问答策略与键盘导航的一致性，并通过回归测试验证。</p>
-<p><b>已合入：</b><a href="https://github.com/anomalyco/opencode/pull/62079">下载按钮布局 #62079</a> · <a href="https://github.com/anomalyco/opencode/pull/62098">Bun 配置文档 #62098</a></p>
 <p><a href="https://github.com/anomalyco/opencode/stargazers"><img src="https://img.shields.io/github/stars/anomalyco/opencode?style=flat-square&amp;label=stars&amp;color=377d76" alt="OpenCode stars" /></a> <a href="https://github.com/anomalyco/opencode/pulls?q=is%3Apr+author%3Acaseclose">查看全部 PR</a></p>
 </td>
 <td width="50%" valign="top">
