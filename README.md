@@ -47,9 +47,9 @@
 <tr>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/anomalyco/opencode">OpenCode</a></h3>
-<p>Bug fixes and regression tests for developer tools, with UI and documentation improvements merged upstream.</p>
+<p>Contributions cover plugin API cancellation with <code>AbortSignal</code>, Composer-based Pint resolution, and consistent question policies and keyboard navigation, backed by regression tests.</p>
 <p><b>Merged:</b> <a href="https://github.com/anomalyco/opencode/pull/62079">Download-button layout #62079</a> · <a href="https://github.com/anomalyco/opencode/pull/62098">Bun setup docs #62098</a></p>
-<p><a href="https://github.com/anomalyco/opencode/pulls?q=is%3Apr+author%3Acaseclose">View all PRs</a></p>
+<p><a href="https://github.com/anomalyco/opencode/stargazers"><img src="https://img.shields.io/github/stars/anomalyco/opencode?style=flat-square&amp;label=stars&amp;color=377d76" alt="OpenCode stars" /></a> <a href="https://github.com/anomalyco/opencode/pulls?q=is%3Apr+author%3Acaseclose">View all PRs</a></p>
 </td>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code">Top AI Papers with Code</a></h3>
