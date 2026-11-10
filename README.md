@@ -47,14 +47,28 @@
 <tr>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/anomalyco/opencode">OpenCode</a></h3>
-<p>Contributions cover plugin API cancellation with <code>AbortSignal</code>, Composer-based Pint resolution, and consistent question policies and keyboard navigation, backed by regression tests.</p>
-<p><a href="https://github.com/anomalyco/opencode/stargazers"><img src="https://img.shields.io/github/stars/anomalyco/opencode?style=flat-square&amp;label=stars&amp;color=377d76" alt="OpenCode stars" /></a> <a href="https://github.com/anomalyco/opencode/pulls?q=is%3Apr+author%3Acaseclose">View all PRs</a></p>
+<p><sub>OPEN-SOURCE AGENT HARNESS · CONTRIBUTOR</sub></p>
+<ul>
+<li><b>Plugin runtime</b> — <code>AbortSignal</code> cancellation propagation</li>
+<li><b>Tool integration</b> — Composer-based Pint resolution</li>
+<li><b>Interaction consistency</b> — question policies and keyboard navigation</li>
+</ul>
+<p><sub>Reproducible bug analysis · Regression tests</sub></p>
+<p><b>Merged:</b> <a href="https://github.com/anomalyco/opencode/pull/62079">#62079</a> · <a href="https://github.com/anomalyco/opencode/pull/62098">#62098</a></p>
 </td>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code">Top AI Papers with Code</a></h3>
-<p>Contributor to <b>MLNLP-World / Top-AI-Conferences-Paper-with-Code</b>, a collection of papers and code from leading AI conferences.</p>
-
-<p><a href="https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/stargazers"><img src="https://img.shields.io/github/stars/MLNLP-World/Top-AI-Conferences-Paper-with-Code?style=flat-square&amp;label=stars&amp;color=377d76" alt="Top-AI-Conferences-Paper-with-Code stars" /></a></p>
+<p><sub>MLNLP-WORLD · CONTRIBUTOR</sub></p>
+<p>Contributing to a collection of papers and code from leading AI conferences, helping researchers find papers and implementations.</p>
+<p><sub>Research resources · Conference papers · Open-source code</sub></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="middle">
+<a href="https://github.com/anomalyco/opencode/stargazers"><img src="https://img.shields.io/github/stars/anomalyco/opencode?style=flat-square&amp;label=stars&amp;color=377d76" alt="OpenCode stars" /></a> <a href="https://github.com/anomalyco/opencode/pulls?q=is%3Apr+author%3Acaseclose"><img src="https://img.shields.io/badge/PRs-284b55?style=flat-square&amp;logo=github&amp;logoColor=white" alt="View all OpenCode PRs" /></a>
+</td>
+<td width="50%" valign="middle">
+<a href="https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/stargazers"><img src="https://img.shields.io/github/stars/MLNLP-World/Top-AI-Conferences-Paper-with-Code?style=flat-square&amp;label=stars&amp;color=377d76" alt="Top AI Papers with Code stars" /></a> <a href="https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code"><img src="https://img.shields.io/badge/Repository-284b55?style=flat-square&amp;logo=github&amp;logoColor=white" alt="View repository" /></a>
 </td>
 </tr>
 <tr><td colspan="2">
