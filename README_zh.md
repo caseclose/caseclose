@@ -34,28 +34,31 @@
 ## <img width="28" height="22" src="./assets/navigation/projects.svg" alt="" />开源项目与代表作
 
 <table width="100%">
-<tr><td>
+<tr><td colspan="2">
 <p><sub>01 / 多模态智能体研究</sub></p>
 <h3><a href="https://caseclose.github.io/cma-harness/">CMA-Harness</a></h3>
 <p><b>认知结构化多模态智能体框架。</b>面向长程多模态理解、生成与编辑，将视觉历史外置为情景记忆并进行选择性检索，附 M2CA-Bench 基准。</p>
 
 <p><a href="https://github.com/caseclose/cma-harness/stargazers"><img src="https://img.shields.io/github/stars/caseclose/cma-harness?style=flat-square&amp;label=stars&amp;color=377d76" alt="cma-harness stars" /></a> <a href="https://arxiv.org/abs/2607.08497" title="论文"><img height="20" src="./assets/actions/paper-zh.svg" alt="论文" /></a> <a href="https://caseclose.github.io/cma-harness/" title="项目主页"><img height="20" src="./assets/actions/project-zh.svg" alt="项目主页" /></a></p>
 </td></tr>
-<tr><td>
+<tr><td colspan="2">
 <p><sub>02 / 开源贡献</sub></p>
+</td></tr>
+<tr>
+<td width="50%" valign="top">
 <h3><a href="https://github.com/anomalyco/opencode">OpenCode</a></h3>
-<p>开源贡献者，已有界面修复与开发文档改进合入上游。</p>
-<ul>
-<li><a href="https://github.com/anomalyco/opencode/pull/62079"><b>#62079 · 已合入</b></a> — 修复 Go / Zen 下载按钮的图标与文字布局。</li>
-<li><a href="https://github.com/anomalyco/opencode/pull/62098"><b>#62098 · 已合入</b></a> — 修正 Bun 贡献环境说明，使其与仓库版本配置及 CI 一致。</li>
-</ul>
-<p><a href="https://github.com/anomalyco/opencode/pulls?q=is%3Apr+author%3Acaseclose">查看全部 OpenCode PR</a></p>
+<p>参与开发者工具的修复与回归测试，已有界面和文档改进合入上游。</p>
+<p><b>已合入：</b><a href="https://github.com/anomalyco/opencode/pull/62079">下载按钮布局 #62079</a> · <a href="https://github.com/anomalyco/opencode/pull/62098">Bun 配置文档 #62098</a></p>
+<p><a href="https://github.com/anomalyco/opencode/pulls?q=is%3Apr+author%3Acaseclose">查看全部 PR</a></p>
+</td>
+<td width="50%" valign="top">
 <h3><a href="https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code">Top AI Papers with Code</a></h3>
 <p><b>MLNLP-World / Top-AI-Conferences-Paper-with-Code</b> 贡献者，参与顶会论文与代码汇总。</p>
 
 <p><a href="https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/stargazers"><img src="https://img.shields.io/github/stars/MLNLP-World/Top-AI-Conferences-Paper-with-Code?style=flat-square&amp;label=stars&amp;color=377d76" alt="Top-AI-Conferences-Paper-with-Code stars" /></a></p>
-</td></tr>
-<tr><td>
+</td>
+</tr>
+<tr><td colspan="2">
 <p><sub>03 / AGENT 技能</sub></p>
 <h3><a href="https://github.com/caseclose/my-skill-hub">My Skill Hub</a></h3>
 <p>我个人制作的开源 Agent Skills 仓库。</p>
