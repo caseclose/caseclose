@@ -37,9 +37,9 @@
 <tr><td colspan="2">
 <p><sub>01 / MULTIMODAL AGENT RESEARCH</sub></p>
 <h3><a href="https://caseclose.github.io/cma-harness/">CMA-Harness</a></h3>
+<p><a href="https://github.com/caseclose/cma-harness/stargazers"><img src="https://img.shields.io/github/stars/caseclose/cma-harness?style=flat-square&amp;label=stars&amp;color=377d76" alt="cma-harness stars" /></a> <a href="https://arxiv.org/abs/2607.08497" title="Paper"><img height="20" src="./assets/actions/paper-en.svg" alt="Paper" /></a> <a href="https://caseclose.github.io/cma-harness/" title="Project page"><img height="20" src="./assets/actions/project-en.svg" alt="Project page" /></a></p>
 <p><b>Cognitive-structured Multimodal Agent Harness.</b> A memory-centric agent for long-horizon multimodal understanding, generation, and editing, with M2CA-Bench. Externalizes visual history into episodic memory with selective retrieval.</p>
 
-<p><a href="https://github.com/caseclose/cma-harness/stargazers"><img src="https://img.shields.io/github/stars/caseclose/cma-harness?style=flat-square&amp;label=stars&amp;color=377d76" alt="cma-harness stars" /></a> <a href="https://arxiv.org/abs/2607.08497" title="Paper"><img height="20" src="./assets/actions/paper-en.svg" alt="Paper" /></a> <a href="https://caseclose.github.io/cma-harness/" title="Project page"><img height="20" src="./assets/actions/project-en.svg" alt="Project page" /></a></p>
 </td></tr>
 <tr><td colspan="2">
 <p><sub>02 / OPEN-SOURCE CONTRIBUTION</sub></p>
@@ -47,6 +47,8 @@
 <tr>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/anomalyco/opencode">OpenCode</a></h3>
+<p><a href="https://github.com/anomalyco/opencode/stargazers"><img src="https://img.shields.io/github/stars/anomalyco/opencode?style=flat-square&amp;label=stars&amp;color=377d76" alt="OpenCode stars" /></a> <a href="https://github.com/anomalyco/opencode/pulls?q=is%3Apr+author%3Acaseclose"><img src="https://img.shields.io/badge/PRs-284b55?style=flat-square&amp;logo=github&amp;logoColor=white" alt="View all OpenCode PRs" /></a></p>
+
 <p><sub>OPEN-SOURCE AGENT HARNESS · CONTRIBUTOR</sub></p>
 <ul>
 <li><b>Plugin runtime</b> — <code>AbortSignal</code> cancellation propagation</li>
@@ -58,29 +60,25 @@
 </td>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code">Top AI Papers with Code</a></h3>
+<p><a href="https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/stargazers"><img src="https://img.shields.io/github/stars/MLNLP-World/Top-AI-Conferences-Paper-with-Code?style=flat-square&amp;label=stars&amp;color=377d76" alt="Top AI Papers with Code stars" /></a> <a href="https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code"><img src="https://img.shields.io/badge/Repository-284b55?style=flat-square&amp;logo=github&amp;logoColor=white" alt="View repository" /></a></p>
+
 <p><sub>MLNLP-WORLD · CONTRIBUTOR</sub></p>
 <p>Contributing to a collection of papers and code from leading AI conferences, helping researchers find papers and implementations.</p>
 <p><sub>Research resources · Conference papers · Open-source code</sub></p>
 </td>
 </tr>
-<tr>
-<td width="50%" valign="middle">
-<a href="https://github.com/anomalyco/opencode/stargazers"><img src="https://img.shields.io/github/stars/anomalyco/opencode?style=flat-square&amp;label=stars&amp;color=377d76" alt="OpenCode stars" /></a> <a href="https://github.com/anomalyco/opencode/pulls?q=is%3Apr+author%3Acaseclose"><img src="https://img.shields.io/badge/PRs-284b55?style=flat-square&amp;logo=github&amp;logoColor=white" alt="View all OpenCode PRs" /></a>
-</td>
-<td width="50%" valign="middle">
-<a href="https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/stargazers"><img src="https://img.shields.io/github/stars/MLNLP-World/Top-AI-Conferences-Paper-with-Code?style=flat-square&amp;label=stars&amp;color=377d76" alt="Top AI Papers with Code stars" /></a> <a href="https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code"><img src="https://img.shields.io/badge/Repository-284b55?style=flat-square&amp;logo=github&amp;logoColor=white" alt="View repository" /></a>
-</td>
-</tr>
+
 <tr><td colspan="2">
 <p><sub>03 / AGENT SKILLS</sub></p>
 <h3><a href="https://github.com/caseclose/my-skill-hub">My Skill Hub</a></h3>
+<p><a href="https://github.com/caseclose/my-skill-hub/stargazers"><img src="https://img.shields.io/github/stars/caseclose/my-skill-hub?style=flat-square&amp;label=stars&amp;color=377d76" alt="my-skill-hub stars" /></a></p>
 <p>A collection of open-source agent skills I created.</p>
 <ul>
 <li><a href="https://github.com/caseclose/computer-use-skill"><b>Computer Use Skill</b></a> — Browser &amp; macOS app automation</li>
 <li><a href="https://github.com/caseclose/html-viewer-skill"><b>HTML Viewer</b></a> — Local data pages &amp; dashboards</li>
 <li><a href="https://github.com/caseclose/gpu_utl_occupy_skill"><b>GPU Occupy</b></a> — Controlled GPU workloads &amp; utilization</li>
 </ul>
-<p><a href="https://github.com/caseclose/my-skill-hub/stargazers"><img src="https://img.shields.io/github/stars/caseclose/my-skill-hub?style=flat-square&amp;label=stars&amp;color=377d76" alt="my-skill-hub stars" /></a></p>
+
 </td></tr>
 </table>
 
@@ -89,48 +87,48 @@
 <td width="50%" valign="top">
 <p><sub>04 / DESKTOP COMPANIONS</sub></p>
 <h3><a href="https://caseclose.github.io/kimi-work-pets/">Kimi Work Pets</a></h3>
+<p><a href="https://github.com/caseclose/kimi-work-pets/stargazers"><img src="https://img.shields.io/github/stars/caseclose/kimi-work-pets?style=flat-square&amp;label=stars&amp;color=377d76" alt="kimi-work-pets stars" /></a> <a href="https://caseclose.github.io/kimi-work-pets/" title="Gallery &amp; demo"><img height="20" src="./assets/actions/gallery-en.svg" alt="Gallery &amp; demo" /></a></p>
 <p>One-click installation of 14 Codex Pets community sprites for Kimi Work. Hover interactions and gaze-following head tracking on macOS &amp; Windows.</p>
 
-<p><a href="https://github.com/caseclose/kimi-work-pets/stargazers"><img src="https://img.shields.io/github/stars/caseclose/kimi-work-pets?style=flat-square&amp;label=stars&amp;color=377d76" alt="kimi-work-pets stars" /></a> <a href="https://caseclose.github.io/kimi-work-pets/" title="Gallery &amp; demo"><img height="20" src="./assets/actions/gallery-en.svg" alt="Gallery &amp; demo" /></a></p>
 </td>
 <td width="50%" valign="top">
 <p><sub>05 / EVERYDAY TOOLS</sub></p>
 <h3><a href="https://github.com/caseclose/work-encourager-open">Work Encourager</a></h3>
+<p><a href="https://github.com/caseclose/work-encourager-open/stargazers"><img src="https://img.shields.io/github/stars/caseclose/work-encourager-open?style=flat-square&amp;label=stars&amp;color=377d76" alt="work-encourager-open stars" /></a> <a href="https://caseclose.github.io/work-encourager-open/" title="Live demo"><img height="20" src="./assets/actions/demo-en.svg" alt="Live demo" /></a> <a href="https://github.com/caseclose/work-encourager-open/releases/latest" title="macOS"><img height="20" src="./assets/actions/download-en.svg" alt="macOS" /></a></p>
 <p>A real-time earnings tracker that turns working minutes into visible progress and motivating goals. Web app and native macOS menu bar utility.</p>
 
-<p><a href="https://github.com/caseclose/work-encourager-open/stargazers"><img src="https://img.shields.io/github/stars/caseclose/work-encourager-open?style=flat-square&amp;label=stars&amp;color=377d76" alt="work-encourager-open stars" /></a> <a href="https://caseclose.github.io/work-encourager-open/" title="Live demo"><img height="20" src="./assets/actions/demo-en.svg" alt="Live demo" /></a> <a href="https://github.com/caseclose/work-encourager-open/releases/latest" title="macOS"><img height="20" src="./assets/actions/download-en.svg" alt="macOS" /></a></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <p><sub>06 / TASK MANAGEMENT</sub></p>
 <h3><a href="https://caseclose.github.io/cadence/">Cadence</a></h3>
+<p> <a href="https://caseclose.github.io/cadence/" title="Project page"><img height="20" src="./assets/actions/project-en.svg" alt="Project page" /></a></p>
 <p>A CPU-scheduling-inspired task manager for multi-task life, with task suspension and adaptive backoff polling reminders.</p>
 
-<p> <a href="https://caseclose.github.io/cadence/" title="Project page"><img height="20" src="./assets/actions/project-en.svg" alt="Project page" /></a></p>
 </td>
 <td width="50%" valign="top">
 <p><sub>07 / MARKET DASHBOARD</sub></p>
 <h3><a href="https://github.com/caseclose/stock-assistant">Stock-assistant</a></h3>
+<p> <a href="https://github.com/caseclose/stock-assistant" title="Repository"><img height="20" src="./assets/actions/repository-en.svg" alt="Repository" /></a></p>
 <p>US equities reference dashboard: watchlists, multi-timeframe charts, and composite signals.<br /><sub>FastAPI · Next.js · Alpaca</sub></p>
 
-<p> <a href="https://github.com/caseclose/stock-assistant" title="Repository"><img height="20" src="./assets/actions/repository-en.svg" alt="Repository" /></a></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <p><sub>08 / NATIVE MACOS</sub></p>
 <h3><a href="https://github.com/caseclose/YouTubeMusic-MacOS">YouTubeMusic-MacOS</a></h3>
+<p> <a href="https://github.com/caseclose/YouTubeMusic-MacOS" title="Repository"><img height="20" src="./assets/actions/repository-en.svg" alt="Repository" /></a></p>
 <p>A native YouTube Music desktop client with media keys, menu bar tray, and Control Center integration.</p>
 
-<p> <a href="https://github.com/caseclose/YouTubeMusic-MacOS" title="Repository"><img height="20" src="./assets/actions/repository-en.svg" alt="Repository" /></a></p>
 </td>
 <td width="50%" valign="top">
 <p><sub>09 / WRITING TOOLS</sub></p>
 <h3><a href="https://github.com/caseclose/mymd-editor">Mymd-editor</a></h3>
+<p> <a href="https://github.com/caseclose/mymd-editor" title="Repository"><img height="20" src="./assets/actions/repository-en.svg" alt="Repository" /></a></p>
 <p>A Typora-style Markdown editor for Windows.<br /><sub>Electron · Milkdown</sub></p>
 
-<p> <a href="https://github.com/caseclose/mymd-editor" title="Repository"><img height="20" src="./assets/actions/repository-en.svg" alt="Repository" /></a></p>
 </td>
 </tr>
 </table>
