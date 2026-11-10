@@ -25,6 +25,8 @@
 - 🔭 I'm currently working on: **Agent(@WeChat Xiaowei, 小微)** · **WeLM-Image-V1(@WeChat Xiaowei, 微信小微生图/编辑模型)** · **GUI Agent** · **Multimodal Understanding (VLM)** · **Code-driven Generation** · **AIGC**
 - 🌱 I'm currently learning: Agentic systems / Harness & unified multimodal models & code generation (HTML / CSS / SVG / LaTeX) · 📈 stock investing
 
+- 🛠️ I contribute to [OpenCode](https://github.com/anomalyco/opencode), focusing on plugin runtimes, developer-tool integration, and consistent interactions through reproducible bug reports and regression tests.
+
 <h3>Education</h3>
 <p><img src="./assets/pku.png" height="24" alt="PKU" /> &nbsp; <b>Peking University</b> · M.S. in Computer Science and Technology<br /><sub>School of Electronic and Computer Engineering · 2024.09 – 2027.06</sub></p>
 <p><img src="./assets/hit.png" height="24" alt="HIT" /> &nbsp; <b>Harbin Institute of Technology</b> · B.S. in Computer Science (Information Security)<br /><sub>Honors School · 2020.09 – 2024.06 · <b>Rank 2 / 82</b></sub></p>
@@ -41,6 +43,13 @@
 </td></tr>
 <tr><td>
 <p><sub>02 / OPEN-SOURCE CONTRIBUTION</sub></p>
+<h3><a href="https://github.com/anomalyco/opencode">OpenCode</a></h3>
+<p>Contributor with UI fixes and developer documentation improvements merged upstream.</p>
+<ul>
+<li><a href="https://github.com/anomalyco/opencode/pull/62079"><b>#62079 · Merged</b></a> — Fixed icon and text alignment in Go / Zen download buttons.</li>
+<li><a href="https://github.com/anomalyco/opencode/pull/62098"><b>#62098 · Merged</b></a> — Aligned contributor Bun setup instructions with the repository version pin and CI.</li>
+</ul>
+<p><a href="https://github.com/anomalyco/opencode/pulls?q=is%3Apr+author%3Acaseclose">View all OpenCode PRs</a></p>
 <h3><a href="https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code">Top AI Papers with Code</a></h3>
 <p>Contributor to <b>MLNLP-World / Top-AI-Conferences-Paper-with-Code</b>, a collection of papers and code from leading AI conferences.</p>
 
