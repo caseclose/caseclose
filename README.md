@@ -154,7 +154,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/SVG" title="SVG"><img width="72" src="./assets/toolkit/svg.svg" alt="SVG" /></a>
   <a href="https://git-scm.com" title="Git"><img width="72" src="./assets/toolkit/git.svg" alt="Git" /></a>
 </p>
-<p><b>AI coding</b></p>
+<p><b>AI Coding (Harness)</b></p>
 <p>
   <a href="https://www.anthropic.com/claude-code" title="Claude Code"><img width="72" src="./assets/toolkit/claude.svg" alt="Claude Code" /></a>
   <a href="https://cursor.com" title="Cursor"><img width="72" src="./assets/toolkit/cursor.svg" alt="Cursor" /></a>
