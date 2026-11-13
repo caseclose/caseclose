@@ -162,6 +162,8 @@
   <a href="https://www.kimi.com/code" title="Kimi Code"><img width="72" src="./assets/toolkit/kimi.svg" alt="Kimi Code" /></a>
   <a href="https://openai.com/codex" title="Codex"><img width="72" src="./assets/toolkit/codex.svg" alt="Codex" /></a>
   <a href="https://zcode.z.ai" title="ZCode"><img width="72" src="./assets/toolkit/zcode.svg" alt="ZCode" /></a>
+  <a href="https://hermes-agent.nousresearch.com" title="Hermes Agent"><img width="72" src="./assets/toolkit/hermes.svg" alt="Hermes" /></a>
+  <a href="https://www.deepseek.com/harness/" title="DeepSeek Harness (DSH)"><img width="72" src="./assets/toolkit/dsh.svg" alt="DSH" /></a>
 </p>
 
 ## <img width="28" height="22" src="./assets/navigation/activity.svg" alt="" />GitHub 贡献动态

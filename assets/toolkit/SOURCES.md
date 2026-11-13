@@ -23,3 +23,5 @@ Simple Icons paths are distributed under [CC0 1.0](https://github.com/simple-ico
 - **Codex:** reused from the existing profile README at commit `35d9391`.
 - **verl:** [official project asset](https://raw.githubusercontent.com/volcengine/verl/184687bb3b7c601627eed3660283ecabd2bb75ed/docs/_static/logo.png).
 - **ZCode:** [official project asset](https://zcode.z.ai/favicon-192x192.png?v=20260707-transparent).
+- **Hermes:** [official website favicon](https://web-assets.nousresearch.com/marketing/fc975d6f904d24e1c22f57f2e1d62a47a83fe27a/assets/hermes-agent/icon.png), embedded in the local SVG tile.
+- **DSH (DeepSeek Harness):** [official website favicon](https://www.deepseek.com/harness/favicon.svg); the official path is retained with a fixed brand-blue fill for consistent visibility in the local tile.
