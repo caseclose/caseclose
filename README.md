@@ -156,13 +156,13 @@
 </p>
 <p><b>AI coding (harness)</b></p>
 <p>
+  <a href="https://opencode.ai" title="OpenCode"><img width="72" src="./assets/toolkit/opencode.svg" alt="OpenCode" /></a>
+  <a href="https://hermes-agent.nousresearch.com" title="Hermes Agent"><img width="72" src="./assets/toolkit/hermes.svg" alt="Hermes" /></a>
+  <a href="https://openai.com/codex" title="Codex"><img width="72" src="./assets/toolkit/codex.svg" alt="Codex" /></a>
   <a href="https://www.anthropic.com/claude-code" title="Claude Code"><img width="72" src="./assets/toolkit/claude.svg" alt="Claude Code" /></a>
   <a href="https://cursor.com" title="Cursor"><img width="72" src="./assets/toolkit/cursor.svg" alt="Cursor" /></a>
-  <a href="https://opencode.ai" title="OpenCode"><img width="72" src="./assets/toolkit/opencode.svg" alt="OpenCode" /></a>
   <a href="https://www.kimi.com/code" title="Kimi Code"><img width="72" src="./assets/toolkit/kimi.svg" alt="Kimi Code" /></a>
-  <a href="https://openai.com/codex" title="Codex"><img width="72" src="./assets/toolkit/codex.svg" alt="Codex" /></a>
   <a href="https://zcode.z.ai" title="ZCode"><img width="72" src="./assets/toolkit/zcode.svg" alt="ZCode" /></a>
-  <a href="https://hermes-agent.nousresearch.com" title="Hermes Agent"><img width="72" src="./assets/toolkit/hermes.svg" alt="Hermes" /></a>
   <a href="https://www.deepseek.com/en/harness/" title="DeepSeek Harness (DSH)"><img width="72" src="./assets/toolkit/dsh.svg" alt="DSH" /></a>
 </p>
 
