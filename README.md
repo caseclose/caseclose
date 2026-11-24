@@ -74,6 +74,7 @@
 <p><a href="https://github.com/caseclose/my-skill-hub/stargazers"><img src="https://img.shields.io/github/stars/caseclose/my-skill-hub?style=flat-square&amp;label=stars&amp;color=377d76" alt="my-skill-hub stars" /></a></p>
 <p>A collection of open-source agent skills I created.</p>
 <ul>
+<li><a href="https://github.com/caseclose/explain-your-work"><b>Explain Your Work</b></a> — Use <code>eyw</code> to turn run logs into a one-page brief and rehearse follow-up questions. <a href="https://caseclose.github.io/explain-your-work/">Try a rehearsal question</a></li>
 <li><a href="https://github.com/caseclose/computer-use-skill"><b>Computer Use Skill</b></a> — Browser &amp; macOS app automation</li>
 <li><a href="https://github.com/caseclose/html-viewer-skill"><b>HTML Viewer</b></a> — Local data pages &amp; dashboards</li>
 <li><a href="https://github.com/caseclose/gpu_utl_occupy_skill"><b>GPU Occupy</b></a> — Controlled GPU workloads &amp; utilization</li>

@@ -74,6 +74,7 @@
 <p><a href="https://github.com/caseclose/my-skill-hub/stargazers"><img src="https://img.shields.io/github/stars/caseclose/my-skill-hub?style=flat-square&amp;label=stars&amp;color=377d76" alt="my-skill-hub stars" /></a></p>
 <p>我个人制作的开源 Agent Skills 仓库。</p>
 <ul>
+<li><a href="https://github.com/caseclose/explain-your-work"><b>Explain Your Work</b></a> — 用 <code>eyw</code> 整理一页组会底稿，练习同事可能追问的问题。 <a href="https://caseclose.github.io/explain-your-work/zh.html">试一道组会追问</a></li>
 <li><a href="https://github.com/caseclose/computer-use-skill"><b>Computer Use Skill</b></a> — 浏览器与 macOS 原生应用自动化</li>
 <li><a href="https://github.com/caseclose/html-viewer-skill"><b>HTML Viewer</b></a> — 本地数据网页与看板</li>
 <li><a href="https://github.com/caseclose/gpu_utl_occupy_skill"><b>GPU Occupy</b></a> — GPU 可控负载与利用率调节</li>
